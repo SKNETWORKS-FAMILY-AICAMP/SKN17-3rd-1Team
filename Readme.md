@@ -107,7 +107,7 @@
 
 <br>
 
-## 🤖 사용한 모델: [`K-intelligence/Midm-2.0-Base-Instruct`](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct)
+## 🤖 사용한 모델: [`K-intelligence/Midm-2.0-Mini-Instruct`](https://huggingface.co/K-intelligence/Midm-2.0-Mini-Instruct)
 
 ### ✅ 모델 선정 기준
 * 한국어에 최적화된 모델일 것
@@ -116,7 +116,7 @@
 * 적은 자원으로 빠른 응답이 가능할 것
 
 
-### ✅ OpenChat의 특징과 장점
+### ✅ 사용한 모델의 특징과 장점
 > (참고) Instruct 버전으로, 복잡하고 다양한 명령을 정확하게 이해하고 수행하도록 훈련되었음
 
 * **압도적인 한국어 최적화**
@@ -135,7 +135,7 @@
 
 ### 📌 선택 이유 요약
 
-* 스이브잡스의 어조와 화법을 한국어로 완벽하게 재현하기 용이 
+* 스티브잡스의 어조와 화법을 한국어로 완벽하게 재현하기 용이 
 * RAG와 페르소나 지시를 결합한 복합 명령을 정확하게 수행
 * 추론 속도와 리소스 효율성이 뛰어남  
 
@@ -144,7 +144,7 @@
 * **제작자**: KT 
 * **기술 리포트**: [믿:음 2.0 Technical Report](https://ai.kt.com/resources/detail01?v=20250722)  
 * **라이선스**: Apache 2.0  
-* **모델 페이지**: [HuggingFace 링크](https://huggingface.co/K-intelligence/Midm-2.0-Base-Instruct)
+* **모델 페이지**: [HuggingFace 링크](https://huggingface.co/K-intelligence/Midm-2.0-Mini-Instruct)
 
 
 <br>
@@ -236,11 +236,15 @@ Chative Jobs는 **RAG**와 **파인튜닝**이 결합된 하이브리드 아키�
 - **목적**: 사용자가 제출한 기업 마케팅 기획안 PDF를 분석하여 잘한 부분과 보완해야 할 부분에 대한 피드백을 제공하고, 사용자의 질문에 답변하기 위한 기반 데이터를 구축하는 것을 목표로 함
 - **출처**: 공모전 및 기업 공개 데이터 
 - **전처리 과정**: 
-  - `pymupdf4llm`: PDF 파일에서 기본 텍스트와 간단한 구조를 Markdown 형식으로 추출하여 초기 데이터를 생성
-  - `LlamaParse`: 고해상도 OCR 및 테이블 추출 기능을 활용해 복잡한 레이아웃을 포함한 한국어 텍스트와 HTML 테이블을 Markdown 형식으로 변환
-  - 데이터셋 생성: 수집된 Markdown 데이터 기반으로, 기획안의 주요 섹션을 식별하여 `모델` 활용해 질의응답 쌍 생성
+  - `LlamaParse`: 수집된 pdf 파일을 고해상도 OCR 및 테이블 추출 기능을 활용해 복잡한 레이아웃을 포함한 한국어 텍스트와 HTML 테이블을 Markdown 형식으로 변환
+  - 데이터셋 생성: 수집된 Markdown 데이터 기반으로, 기획안의 주요 섹션을 식별하여 질의응답 쌍 생성
 - **최종 확보량**: 총 **354개 질의응답 쌍**
 
+
+## ✅ 사용자 입력 PDF 데이터 - 기업 마케팅 기획안
+- **목적**: pdf 파일 보다 잘 이해하기 
+- **전처리 과정**: 
+  - `pymupdf4llm`: 업로드된 사용자 PDF 파일에서 기본 텍스트와 테이블을 Markdown 형식으로 추출하여 데이터를 변환
 
 <br>
 <br>
