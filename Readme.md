@@ -29,7 +29,7 @@
 
 | [@김주영](https://github.com/samkim7788)                      | [@김준협](https://github.com/use08168)                       |  [@맹지수](https://github.com/happyfrogg)                       | [@이민영](https://github.com/mylee99125)                       | [@조세희](https://github.com/tpgml6513)                       |
 |---------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
-| <img src="./img/a1.jpeg" width="150" height="150">         | <img src="img/jh2.jpg" width="150" height="150" />| <img src="img/a3.jpeg" width="150" height="150">             |  <img src="img/a4.jpeg" width="150" height="150" />|<img src="img/a2.jpg" width="150" height="150" />|
+| <img src="./img/jy.jpeg" width="150" height="150">         | <img src="img/jh.jpg" width="150" height="150" />| <img src="img/js.jpeg" width="150" height="150">             |  <img src="img/my.jpeg" width="150" height="150" />|<img src="img/sh.jpg" width="150" height="150" />|
 
 <br>
 <br>
@@ -184,7 +184,7 @@ Chative Jobs는 **RAG**와 **파인튜닝**이 결합된 하이브리드 아키�
    완성된 답변을 사용자에게 제공
 
 
-![시스템 플로우](./img/최종 플로우.png)
+![최종 플로우](./img/최종 플로우.png)
 
 
 <br>
