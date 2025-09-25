@@ -249,6 +249,9 @@ Chative Jobs는 **RAG**와 **파인튜닝**이 결합된 하이브리드 아키�
   - `LlamaParse`: 수집된 pdf 파일을 고해상도 OCR 및 테이블 추출 기능을 활용해 복잡한 레이아웃을 포함한 한국어 텍스트와 HTML 테이블을 Markdown 형식으로 변환
   - 데이터셋 생성: 수집된 Markdown 데이터 기반으로, 기획안의 주요 섹션을 식별하여 질의응답 쌍 생성
 - **최종 확보량**: 총 **354개 질의응답 쌍**
+- **가공 전 , 후**
+  - <img src="/img/pdf_image.png" width="300"> <img src="/img/md_image.png" width="300">
+
 
 
 ## ✅ 사용자 입력 PDF 데이터
