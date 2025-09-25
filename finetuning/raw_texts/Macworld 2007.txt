@@ -1,0 +1,1715 @@
+So good, but I gotta hear you.
+So good, so good, but I gotta hear you.
+Hey!
+Woo!
+Woo!
+Good morning.
+James Brown.
+So thank you.
+Thank you for coming.
+We're gonna make some history together today.
+So, welcome to MacWorld.
+You know, it was just a year ago that I was up here and announced that we were gonna switch to Intel processors.
+A huge, heart transplant to Intel microprocessors.
+And I said that we would do it over the coming 12 months.
+We did it in seven months.
+And it was the, it's been the smoothest and most successful transition that we've ever seen in the history of our industry.
+And it was because we made a beautiful, seamless version of OS X for Intel processors.
+And our team created Rosetta software, which lets you run power PC apps on top of OS X on Intel processors.
+Our hardware team got to cranking out a new Mac with Intel processors every month.
+And we completed this transition in seven months.
+But we didn't do this alone.
+We did this with the help of a lot of folks.
+Our new colleagues at Intel really helped us.
+Thank you very much.
+Our third party developers rapidly moving their apps to universal versions to run at native speeds on Intel processors.
+Thank you very much.
+And most of all, our users.
+The minute you saw these lightning fast machines, you bought them.
+And we've had an extremely successful year.
+And I want to thank our users very much.
+Now, as many of you know, our retail stores have for a while been selling over half their Macs to people who've never owned a Mac before.
+Switchers.
+Well, I'm pleased to report that now in the US, Macs selling through all channels over half of them are selling to people who've never owned a Mac before.
+It's not just limited to our retail stores anymore.
+Half the Macs were selling in the US.
+We are picking up lots and lots of new members of the Mac family.
+And we couldn't be happier.
+As a matter of fact, here's one that might be coming on soon.
+Jim Olchent, Microsoft, quoted recently as saying if he didn't work for Microsoft, he would buy a Mac and he's retiring soon, so I've alerted our Seattle stores to keep an eye out for him.
+He had a really good service.
+You know, Vista is coming out and you know, our ads with the Mac guy and the PC guy.
+We made a little ad for Vista and I'd love to show it to you now if you'd like to see it.
+So let's go ahead and run it.
+Hello, I'm Mac and I'm a PC.
+What are you going for at checkup?
+Well, I'm upgrading to Vista today, which is great, but I get a little nervous when they mess around with me inside.
+What do you mean is it's just straightforward?
+Not really.
+Like a lot of PCs, I have to update my graphics card, my memory.
+If I want the premium package, I need a faster processor.
+It's major surgery.
+I'm sorry about that.
+Listen, Mac, if I don't come back, I want you to have my peripherals.
+Oh, come on.
+PC, you're not good.
+He have peripherals.
+So 2007 is going to be a great year for the Mac.
+But this is all we're going to talk about the Mac today.
+We're going to move on to some other things and over the course of the next several months, we're going to roll out some awesome stuff for the Mac.
+But for today, we're going to move on.
+So the first thing I'd like to do is give you an update about our music business.
+As you know, we've got the iPod, best music player in the world.
+We've got the iPod nanos, brand new models, colors are back.
+And we've got the amazing new iPod shuffle.
+The iPod, in addition to being the world's best MP3 player, has become the world's most popular video player.
+And by a large margin, the iPod Nano is the world's most popular MP3 player.
+By a wide margin.
+And the new shuffle is the world's most wearable MP3 player.
+So we had an incredible lineup for this holiday season, all refreshed and new products.
+Now I'd like to tell you a few things about iTunes now that are pretty exciting.
+Number one, we have crossed a major milestone.
+We have sold over two billion songs on iTunes.
+Amazing.
+Now, there was an article recently that said iTunes sales had slowed dramatically.
+I don't know what data they're looking at, but this is our data.
+And what we see is iTunes sales were really up this past year.
+It took us over three years to get to a billion songs.
+We got our second billion in ten months in 2006.
+And growing off us over 600 million song bass, we doubled it in 2006.
+So we couldn't be happier with the growth rate of iTunes and selling two billion songs.
+Now, we are selling over five million songs a day.
+Now, it's not unbelievable.
+Five million songs a day.
+That's 58 songs every second of every minute of every hour of every day.
+And the last time we talked to you, we said that we were the fifth largest music reseller in the US.
+Now, all these other guys sell music on CDs, and of course we sell it online.
+But if you add up all the music that sold, we were the fifth largest reseller.
+And that's because of the growth of iTunes.
+I'm pleased to report that we have now passed Amazon.
+We sell more music than Amazon, and we are now number four.
+And you can guess who our next target might be.
+So that's an update for music.
+Now, I want to talk about TV shows.
+We've got awesome TV shows on iTunes.
+And we have over 350 TV shows that you can buy episodes from on iTunes.
+And I'm very pleased to report that we have sold now 50 million TV shows on iTunes.
+Incredible.
+Now, let me go on to movies.
+When we started with television shows, the pioneering partner we had was the Walt Disney company.
+They decided to throw in with us and sell TV shows, and boy, did it work.
+Well, when we decided to sell movies, they were right there with us again as our pioneering partner to sell movies.
+And I am really pleased to announce that in the first four months of selling movies, we have sold 1.3 million movies on iTunes, which I think has exceeded all of our expectations.
+And today, we have a new partner joining the Walt Disney company to sell movies on iTunes, and that is Paramount.
+Paramount is going to be selling movies on iTunes.
+And worked real because they have some awesome movies.
+Let me just show you a few of the titles here that are going up as we speak.
+All six Star Trek movies.
+So we are going to be moving up from the 100 movies we have offered so far to over 250 movies now offered on iTunes.
+These are getting up as fast as we can over the next week or so.
+And we hope to be adding even more movies as other studios throw in with us as 2006 rolls on.
+So that's an update on iTunes.
+Now, as I said, we had a very strong lineup of music players for this holiday season.
+We always have stiff competition.
+That's just part of this business.
+And we had a new competitor this last holiday season, which was, of course, Microsoft's Zoom.
+So how they do.
+Well, we don't have data for December yet because it's not out until next week or the week after I forget.
+But we have data for November, which was their launch month should have been real big.
+And they garnered 2% market share.
+2% market share.
+iPod had 62% market share.
+And the rest had 36.
+Now, again, we don't have data for December.
+We know we went up quite a bit in December in terms of market share.
+And we'll find out how they did, but 2% in their launch month.
+So no matter how you try to spin this, what can you say?
+So that's an update on how we're doing in the music business.
+And we've got a few new ads for iPods.
+And we work with some of the greatest folks to create advertising.
+And they created this wonderful ad that I'd love to show you right now.
+So let me go ahead and roll it.
+I'm going to be on the back of the wall.
+I don't know me since you got me in those.
+Say you have whatever it goes.
+Hey, my head don't drag me in well.
+As it's on again, my there's a gym.
+It's all come much more fake than you.
+I try to be kind of your eyes.
+I say to the boys, my right in the head.
+I'm going to be a little more fake than you.
+I try to be kind of your eyes.
+I say to the boys, my right in the head.
+I'm going to be a little more fake than you.
+I'm going to be a little more fake than you.
+I say to the boys, my right in the head.
+I just got a guy taking his bed till she said.
+I'm going to be a little more fake than you.
+Woo!
+Now, just to let you in on our process a little bit.
+These guys are incredibly creative.
+They couldn't stop.
+up and coming British pop group and they took the same dancers and they did some different animation and they came up with what you're about to see.
+I'm not great.
+So those will be running shortly and that is an update to our music business.
+Now I'd like to talk about a product we introduced in September called the codename is ITV.
+We have a new name for it.
+It's called Apple TV.
+But you should never go with your codename like we did with the Mac or you should pick a codename quite a bit different than your codename.
+So I'll probably stumble and call this ITV five times by mistake.
+I apologize.
+It's Apple TV.
+And Apple TV is a way to enjoy your media on your big screen TV.
+So let's backtrack and talk about what we did when we previewed this in September.
+You can buy great content on the iTunes music store movies, TV shows and music of course.
+And you can download it to your computer via the PC or Mac.
+I'm going to use a Mac here.
+You can put other content on your computer from other places too of course.
+And you can put that content on your iPod.
+Now you can go out and buy a wide screen TV, hook up an Apple TV to it and wirelessly transmit that content from your PC to your Apple TV and watch it on your big screen TV.
+It's that simple, right?
+It's that simple.
+So this is it.
+Let's take a look around the back and the connectors to refresh ourselves.
+We have a power connector, USB 2 and Ethernet.
+We have Wi-Fi wireless networking built in.
+And then we have ways to get video out.
+An HDMI connector which is digital audio and video or component video and analog and digital audio, right?
+All at the back.
+Most people however will just use these three.
+They'll plug it in.
+There's no power brick necessary.
+And they'll hook up an HDMI cable to their widescreen TV and they'll use wireless networking to get their content.
+So it's really, really easy to use.
+And let me tell you a little more in depth about what this box does.
+First of all, it delivers up to 720p high-definition video, right?
+Number one.
+Number two, it's got a 40 gigabyte hard drive inside it.
+So it will store up to 50 hours of video, which comes in handy for something I'm about to show you.
+And it has 80211 Wi-Fi wireless networking and it's got all three of the popular standards.
+It's got B, G and the new draft end standard, which is really, really fast.
+And, it's got an Intel processor in it.
+So it's got the processing horsepower to do the kinds of user interfaces we like to do.
+So it's a really cool box.
+It works with video, music, and photos.
+It was designed for widescreen TVs.
+It's got Wi-Fi wireless networking, internal 40 gig hard drive.
+You can auto-sync your content from one computer.
+And you can stream content from up to five computers.
+So let's examine this in a little more detail.
+Auto-sync from one computer.
+What does this mean?
+It means you can take one of the computers in your house and right from iTunes, just like you would set up an iPod, you can set up your Apple TV.
+And you can set up your Apple TV to say, oh, take my 10 most recently purchased on-watch movies and automatically put them on the hard drive of Apple TV.
+So that whenever I walk up to Apple TV, they're there, right?
+So let me show you.
+I'm going to do this with 6 TV shows.
+They just automatically, whenever I buy them, they just automatically will stream in the background to Apple TV and be stored on the hard drive.
+So whenever I go to watch something, they're there.
+Now I can also stream from up to five computers.
+In this case, I'm going to take content from five computers and I can watch it on Apple TV, but I will not store it on the hard drive.
+So you can just stream it live and watch it from other computers in the house, or if your neighbor comes over with a notebook and they've got something cool that you want to watch on your widescreen TV.
+Again, PCs are max.
+I just choose the computer that I like.
+So this is Apple TV and why don't we go ahead and show it to you.
+You can control it with this very simple remote.
+So let's go see a demo.
+This is the screensaver.
+Takes all your photographs here and just puts them on your TV and they're gorgeous because as you know, photography these days is high-deaf with these amazing digital cameras that we have.
+So let's go into the main menu of ITV.
+And here's what it looks like.
+We've got movies, TV shows, music, podcasts, photos.
+So let's go into movies here.
+And we go into movies.
+And let's see here now.
+We have all my movies that are stored on ITV, as well as the iTunes top movies.
+I can go see what's selling on iTunes and stream it down and watch it on ITV.
+I can also look at theatrical trailers.
+Again, this is not stored on ITV.
+This is actually coming over the live internet into my house through my internet gateway, wirelessly to Apple TV.
+And I can watch theatrical trailers streaming right from Apple.com.
+So let's go in here.
+And what's a cool trailer?
+I'm going to watch this one called The Good Shepherd, where it go.
+Oh, gee, good shepherd, there we go.
+Boom.
+So let's watch this.
+I just click on it and this is streaming live from Apple.com.
+Everybody has secrets to tell.
+I say secrets are bigger than others.
+Can you understand that whatever we discuss here doesn't leave this room?
+Of course.
+The president has asked me to look into creating a foreign intelligence service.
+My orders came through and be going overseas.
+What are you going to do, everyone?
+Save the world?
+I'll do what I can.
+Welcome to our little clubhouse.
+You're going to have to learn the English system of intelligence.
+I'm here to see a tailor.
+How is this fishing?
+Set the Mongoose free.
+So you get the idea.
+Sit on your couch and watch theatrical movie trailers with ITV.
+Now let's back up here and let's go play a movie.
+We've got Zoolander here.
+Let's go play a little part of Zoolander, one of our new Paramount movies.
+You think you're too cool for school?
+But I got a newsflash for you Walter Cronkite.
+You aren't.
+You're trying to get crazy with us, ain't you?
+Don't you know I'm local?
+Hey, I got a wacky idea.
+What say we settle this on the runway?
+And...
+So low.
+And...
+So low.
+And that's great.
+So that's movies.
+And let's go take a look at TV shows here.
+It's again incredibly cool.
+Let's go into a hero's, a really great new show.
+And play an episode called Better Hats.
+So what's your system up, Al?
+Some ancient Oriental voodoo?
+No system.
+Japanese people are very lucky.
+Japanese people better run out of luck soon.
+Starting to think I'm getting hustle.
+Easy, Ernie.
+It's a friendly game.
+No one's getting hustle.
+No hustle.
+Only good fortune.
+Now let's go.
+I'm in for 400.
+I will bet.
+1000.
+Okay, well that's TV shows.
+And now let me show you music.
+You know, ITV of course is Apple TV is primarily for video.
+But it turns out it's awesome for listening to music on your home theatre system as well.
+Many people are going to buy it for that.
+So we got music here.
+We got the iTunes top music and top music videos.
+And let me go down into a playlist here.
+And I've got a favorites playlist.
+And I'll go into that.
+And I'll just shuffle some songs because I want to show you what it's like when you're playing music here.
+So it does that so it doesn't burn a hole in your plasma TV there.
+And we can go ahead and just go to the next track here.
+Yes today.
+Next track.
+So that's what it's like to play music.
+All right.
+So now let's go to photos.
+You know, again, your photos are high-deaf.
+These new digital cameras are awesome.
+And so you can just again move your photos to ITV or stream them over.
+Over wireless networking.
+And see your photos right on your TV.
+So as an example, here's a photo album I made of... Just beautiful.
+Nice day for a walk in the park.
+Nice day for a drive through the city.
+This world is in warm, sunny park.
+So you get the idea.
+It's really cool to watch photos on your widescreen TV.
+Now, what I've been demonstrating so far is primarily content that has been synced to Apple TV from my computer.
+And I'd like to show you what it's like when you want to connect to somebody else's computer.
+Let's say Phil Schiller, my neighbor, comes over.
+And he's got his MacBook.
+Phil, what do you got on your Mac?
+We got some content we could watch.
+Hi, neighbor.
+Yeah, I have some really cool show I was watching.
+And I wanted to show you on your Apple TV.
+Great.
+Well, let me just go down here to sources.
+And here's the Apple TV that I've been playing off the hard drive of.
+And I just say, I want to connect to a new iTunes right here.
+And iTunes is running on Phil's machine.
+It says, type in this pin for security reasons.
+And Phil types in the pin into his Mac book.
+And the minute they're fully authenticated now.
+And there's Phil's MacBook right up there.
+And I push it.
+And now I'm going to be looking at the content right off of Phil's MacBook.
+And what do you want to watch, Phil?
+Let's go into TV shows.
+All right.
+Here we go.
+Which one?
+I want to show you something from 30 Rock.
+All right.
+Going to 30 Rock here.
+And there's a really funny scene in Jack meets Dennis.
+Jack meets Dennis.
+Okay, great.
+Here we go.
+We're streaming off of Phil's Mac book to this Apple TV live.
+Oh my God, Jack.
+What are you doing in wardrobe?
+We're just researchers in our audience.
+Doesn't like green.
+Oh, that's too bad.
+I like green.
+Research doesn't lie, Jenna.
+Unless it's no more we're thinking.
+What's to boring?
+What's to gay?
+What's to old?
+What's to old?
+It's a very good question.
+How old are you?
+I'm 29.
+What year were you born?
+1977.
+When did you graduate high school?
+94.
+When did you turn 40?
+2017.
+Junior High Crush.
+Kurt Cameron.
+You're a theater or a driving.
+What's a driving?
+I don't know why I bother to ask.
+I can tell just from your physical appearance that you're obviously.
+29.
+All right.
+What do you need?
+So, thank you Phil.
+Thanks, Nick.
+That is Apple TV.
+Thank you.
+So we think this is pretty cool.
+Apple TV.
+Movies.
+TV shows.
+Music.
+And photos.
+All on your widescreen TV.
+I'm really excited about it.
+So Apple TV is going to be priced at $299.
+$299.
+We're all this built in.
+And we're going to be shipping them next month in February.
+And we are taking orders starting today.
+So.
+Apple TV.
+Enjoy your media on your big screen TV.
+And we think this is going to be really something quite special.
+Apple TV.
+Apple TV.
+This is a day I've been looking forward to for two and a half years.
+Every once in a while, a revolutionary product comes along that changes everything.
+And Apple has been, well, first of all, one's very fortunate if you get to work on just one of these in your career.
+Apple's been very fortunate.
+It's been able to introduce a few of these into the world.
+In 1984, we introduced the Macintosh.
+It didn't just change Apple.
+It changed the whole computer industry.
+In 2001, we introduced the first iPod.
+And it didn't just change the way we all listen to music.
+It changed the entire music industry.
+Well, today, we're introducing three revolutionary products of this class.
+The first one is a wide-screen iPod with touch controls.
+The second is a revolutionary multi-final.
+And the third is a breakthrough Internet communications device.
+Three things.
+A wide-screen iPod with touch controls, a revolutionary mobile phone, and a breakthrough Internet communications device.
+An iPod, a phone, and an Internet communicator.
+An iPod, a phone.
+Are you getting it?
+These are not three separate devices.
+This is one device.
+And we are calling it iPhone.
+Today, Apple is going to reinvent the phone.
+And here it is.
+Actually, here it is, but we're going to leave it there for now.
+So, before we get into it, let me talk about a category of things.
+The most advanced phones are called smartphones.
+And they typically combine a phone plus some email capability.
+Plus, they say it's the Internet or the baby Internet in the one device.
+And they all have these plastic little keyboards on them.
+And the problem is that they're not so smart, and they're not so easy to use.
+So, if you kind of make a business school 101 graph of the smart axis and the easy to use axis, phones, regular cell phones are kind of right there.
+They're not so smart, and they're not so easy to use.
+But smartphones are definitely a little smarter, but they actually are harder to use.
+They're really complicated.
+Just for the basic stuff, people have a hard time figuring out how to use them.
+Well, we don't want to do either one of these things.
+What we want to do is make a leapfrog product that is way smarter than any mobile devices ever been, and super easy to use.
+This is what iPhone is.
+So, we're going to reinvent the phone.
+Now, we're going to start with a revolutionary user interface.
+Is the result of years of research and development, and of course it's an interplay of hardware and software.
+Now, why do we need a revolutionary user interface?
+And here's four smart phones, Motorola Q, the Blackberry, PalmTrayo, Nokia E62, the usual suspects.
+And what's wrong with their user interface?
+Well, the problem with them is really sort of in the bottom 40 there.
+It's this stuff right here.
+They all have these keyboards that are there whether you need them or not to be there.
+And they all have these control buttons that are fixed in plastic and are the same for every application.
+Well, every application wants a slightly different user interface, a slightly optimized set of buttons just for it.
+And what happens if you think of a great idea six months from now?
+You can't run around and add a button to these things.
+They're already shipped.
+So, what do you do?
+It doesn't work because the buttons and the controls can't change.
+They can't change for each application, and they can't change down the road.
+If you think of another great idea you want to add to this product.
+Well, how do you solve this?
+Hmm, it turns out we have solved it.
+We solved it in computers 20 years ago.
+We solved it with a bitmap screen that could display anything we want, put any user interface up, and a pointing device.
+We solved it with the mouse, right?
+We solved this problem.
+So, how are we going to take this to a mobile device?
+What we're going to do is get rid of all these buttons and just make a giant screen.
+A giant screen.
+Now, how are we going to communicate this?
+We don't want to carry around a mouse, right?
+So, what are we going to do?
+Oh, a stylus, right?
+We're going to use a stylus.
+No.
+Who wants a stylus?
+You have to get them and put them away, and you lose them.
+Nobody wants a stylus.
+So, let's not use a stylus.
+We're going to use the best pointing device in the world.
+We're going to use a pointing device that we're all born with.
+We're born with ten of them.
+We're going to use our fingers.
+We're going to touch this with our fingers.
+And we have invented a new technology called multi-touch, which is phenomenal.
+It works like magic.
+You don't need a stylus.
+It's far more accurate than any touch display that's ever been shipped.
+It ignores unintended touches.
+It's super smart.
+You can do multi-finger gestures on it.
+And boy, have we patented it.
+So, we've been very lucky to have brought a few revolutionary user interfaces to the market.
+First was the mouse.
+The second was the click wheel.
+And now we're going to bring multi-touch to the market.
+And each of these revolutionary user interfaces has made possible a revolutionary product.
+The Mac, the iPod, and now the iPhone.
+So, a revolutionary user interface.
+We're going to build on top of that with software.
+Now, software on mobile phones is like baby software.
+It's not so powerful.
+And today, we're going to show you a software breakthrough.
+Software that's at least five years ahead of what's on any other phone.
+Now, how do we do this?
+Well, we start with a strong foundation.
+iPhone runs OS 10.
+Now, why would we want to run such a sophisticated operating system on a mobile device?
+Well, because it's got everything we need.
+It's got multitasking.
+It's got the best networking.
+It already knows how to power manage.
+We've been doing this on mobile computers for years.
+It's got awesome security.
+And to write apps, it's got everything from Coco and the graphics.
+And it's got core animation built in.
+And it's got the audio and video that OS 10 is famous for.
+It's got all the stuff we want.
+And it's built right in to iPhone.
+And that has let us create desktop class applications and networking.
+Right?
+Not the crippled stuff that you find on most phones.
+This is real desktop class applications.
+Now, you know, one of the pioneers of our industry, Alan Kay, has had a lot of great quotes throughout the years.
+And I ran across one of them recently that explains how we look at this.
+Explains why we go about doing things the way we do.
+Because we love software.
+And here's the quote.
+People who are really serious about software should make their own hardware.
+Alan said this 30 years ago.
+And this is how we feel about it.
+And so we're bringing breakthrough software to a mobile device for the first time.
+It's five years ahead of anything on any other phone.
+The second thing we're doing is we're learning from the iPod.
+Sinking with iTunes.
+You know, we're going to ship our 100 millionth iPod this year.
+And that's tens of millions of people that know how to sink these devices with their PCs or Mac and sink all of their media right onto their iPod.
+So you just drop your iPod in and it automatically sinks.
+You're going to do the same thing with iPhone.
+It automatically sinks to your PC or Mac right through iTunes.
+And iTunes is going to sink all your media onto your iPhone, your music, your audiobooks, podcasts, movies, TV shows, music videos.
+But it also sinks a ton of data.
+Your contacts, your calendars, and your photos, which you can get on your iPod today, your notes, your bookmarks from your web browser, your email accounts, your whole email setup, all that stuff can be moved over to iPhone completely automatically.
+It's really nice.
+And we do it through iTunes.
+Again, you go to iTunes and you set it up just like you set up an iPod or an Apple TV.
+And you set up what you want sink to your iPhone.
+And it's just like an iPod.
+Charge and sink.
+So sink with iTunes.
+Third thing I want to talk about a little is design.
+We've designed something wonderful for your hand.
+Just wonderful.
+And this is what it looks like.
+It's got a three and a half inch screen on it.
+It's really big.
+And it's the highest resolution screen we've ever shipped.
+It's 160 pixels per inch.
+Highest we've ever shipped.
+It's gorgeous.
+And on the front, there's only one button down there.
+We call it the home button.
+It takes you home from wherever you are.
+That's it.
+Let's take a look at the side.
+It's really thin.
+It's thinner than any smartphone out there at 11.6 millimeters.
+Thinner than the Q. Thinner than the blackjack.
+Thinner than the blackjack.
+Thinner than the blackjack.
+Thinner than all of them.
+It's really nice.
+And we've got some controls on the side.
+We've got a little switch for ringing silent.
+We've got a volume up and down control.
+Let's look at the back.
+On the back, the biggest thing of note is we've got a two megapixel camera built right in.
+The other side and we're back on the front.
+So let's take a look at the top now.
+We've got a headset jack.
+Three and a half millimeter.
+All your iPod headphones fit right in.
+We've got a place, a little tray for your SIM card.
+And we've got one switch for sleep and wake.
+Just push it to go to sleep.
+Push it to wake up.
+Let's take a look at the bottom.
+We've got a speaker.
+We've got a microphone.
+And we've got our 30 pin iPod connector.
+So that's the bottom.
+Now, we've also got some stuff you can't see.
+We've got three really advanced sensors built into this phone.
+The first one is a proximity sensor.
+It's sensors when physical objects get close.
+So when you bring iPhone up to your ear to take a phone call, it turns off the display and it turns off the touch sensor instantly.
+Why do you want to do that?
+Well, one to say battery.
+But two, so you don't get spurious inputs from your face into the touch screen.
+Just automatically turns them off.
+Take it away.
+Boom.
+It's back on.
+So it's got a proximity sensor built in.
+It's got an ambient light sensor as well.
+We sense the ambient lighting conditions and adjust the brightness of the display to match the ambient lighting conditions.
+Again, better user experience saves power.
+And the third thing we've got is an accelerometer.
+So that we can tell when you switch from portrait to landscape.
+It's pretty cool.
+Show it to you in a minute.
+So three advanced sensors built in.
+So let's go ahead and turn it on.
+This is the size of it.
+It fits beautifully in the palm of your hand.
+So an iPod, a phone, and an internet communicator.
+Let's start with the iPod.
+You can touch your music.
+You can just touch your music.
+It's so cool.
+You got a wide screen video.
+You can find your music even faster.
+Gorgeous album art on this display.
+Built in speaker.
+And why not?
+Cover flow.
+First time ever on an iPod.
+So we'll talk about this more.
+Let me show it to you.
+All righty.
+Now, I've got some special iPhones up here that have got a little special board in them.
+I can get some digital video out.
+I got a little cord here which goes up to these projectors.
+And so I've got some great images.
+And you get to see what it really looks like.
+So let me, I've got a camera here so you can see what I'm doing with my finger for a few seconds.
+And let me go ahead and get that picture within picture up.
+I'm going to go ahead and just push the sleep wake button.
+There we go, right there.
+And to unlock the phone, I just take my finger and slide it across.
+All right.
+And we'll see that again.
+So sleep.
+We wanted something that you couldn't do by accident in your pocket and just slide it across.
+Boom.
+And this is the home screen of iPhone right here.
+And so if I want to get in the iPod, I just go down that lower right hand corner and push the icon right here.
+And boom.
+I'm in the iPod.
+I want to get home.
+I push the home button right here.
+And I'm home.
+Back in the iPod.
+I'm back in the iPod.
+Now here I am.
+You see five buttons across the bottom.
+Playlists, artists, songs, videos, and more.
+I'm an artist right now.
+Well, how do I scroll through my list of artists?
+How do I do this?
+I just take my finger and I scroll.
+That's it.
+You need that cool.
+It'll rubber banding up when I run off the edge.
+And if I want to pick somebody, let's say I want to pick the Beatles, I just tap them.
+And here's the Beatles songs with their albums right here.
+I want to play Sargent Pepper's.
+I just hit Sargent Pepper's right there.
+And it will help for my friends.
+Look at this gorgeous album artwork here.
+Of course I got a volume control.
+Now I've got a little button up in the corner right here.
+You can see in the upper right hand corner, I can hit that and flip the album art around.
+Here's all the other songs back here.
+And I can play lovely Rita if I want to.
+Flip it back around.
+Very simple.
+I can set some stars back here just by setting the arrows.
+That's a five-star album.
+Isn't that cool?
+Yeah, it's pretty nice.
+Let me show you something else.
+I just take my unit here and I turn it landscape mode.
+Oh, look what happens.
+I'm in cover flow.
+What's going to Dylan here?
+It's pretty like a Rolling Stone.
+I just thumb through.
+I just thumb through my albums.
+It's real easy.
+Anytime I find something I like I'm just trying to round.
+Play something.
+It's that easy.
+It's that simple.
+Isn't that great?
+Yeah.
+I can play with this for a long time.
+Now, again, I've got playlists here.
+I can go into my playlist.
+I've got artists.
+I've got songs.
+I've got more over here.
+I've got albums.
+I've got a great album view.
+Again, it shows all of my album artwork right here if I want.
+I've also got audiobooks and compilations and things like that.
+I've also got videos here.
+I've got a podcast loaded on and a music video.
+I've got a TV show and a movie.
+I'd like to show you the TV show here.
+This is an episode from the office.
+All videos we look at in landscape.
+An NBC presentation.
+Hey.
+Who are you in the backseat in the morning?
+Oh.
+Kind of hard to explain.
+I don't have a ton of contact with this grand branch.
+But before I left, I took a box of Dwight's stationery.
+So, from time to time, I send Dwight Fax's from himself, from the future.
+Dwight, at 8am today, someone poisons the coffee.
+We do not drink the coffee.
+More instructions will follow.
+Cordily, future Dwight.
+No!
+No, thank you.
+We have touch controls on your course.
+Isn't that awesome?
+Isn't that awesome?
+Let's go, uh, now I want to show you a movie playing.
+Let's play Pirates of the Caribbean, the second one here.
+Great movie, by the way.
+And uh...
+The bright side is your back.
+And made it off.
+Now, this is a widescreen movie.
+So, I just double tap and I can see the whole thing here.
+Or I can fill out the screen.
+Do you have what I like?
+Lord, I did it.
+And again, I've got on screen controls here.
+Is this cool?
+So, we can be watching future length movies just like this.
+Alrighty.
+So, that is the iPod.
+Pretty cool, huh?
+We've just started.
+So, again, touch your music.
+Scroll through your song.
+Scroll through your playlist.
+It's incredible.
+Wide screen video, like you've never seen on a portable device.
+160 pixels per inch.
+Gorgeous screen quality.
+Gorgeous album art.
+And cover flow.
+It's the best iPod we've ever made.
+Again, some of the screenshots.
+It's unbelievable.
+Here's some album art I just put up so you can see what it looks like.
+Just no matter what you like, it looks pretty dog-on-gorgeous.
+And of course, cover flow and video.
+With on screen controls.
+You know, I was showing this to somebody.
+I was giving a demo to somebody a little while ago who'd never seen this before inside Apple.
+And I finished the demo.
+I said, what do you think?
+They told me this.
+They said, you had me at school.
+So, the iPhone with the most amazing iPod ever, you can now touch your music.
+So, that's the iPod.
+Now, let's take a look at a revolutionary phone.
+We want to reinvent the phone.
+Now, what's the killer app?
+The killer app is making calls.
+It's amazing.
+It's amazing how hard it is to make calls on most phones.
+Most people actually dial them every time.
+Most people don't have very many numbers in their address book.
+They use their recent as their address book.
+How many of you do that?
+I bet more than a few.
+So, we want to let you use contacts like never before.
+You can sync your iPhone with your PC or Mac and bring down all your contacts right into your phone.
+So, you've got everybody's numbers with you at all times.
+We have something that's going to revolutionize voicemail today.
+We call it visual voicemail.
+Wouldn't it be great if you had six voicemails?
+If you didn't have to listen to five of them first before you wanted to listen to the sixth.
+Wouldn't that be great if you had random access voicemail?
+Well, we've got it.
+Just like email, you can go directly to the voicemails that interest you.
+Excellent.
+Audio quality.
+iPhone is a quad band GSM plus edge phone.
+We have decided.
+We've decided to go with the most popular international standard, which is GSM.
+We're on that band wagon, headed on that road map, and planned to make three G-phones and all sorts of other amazing things in the future.
+So, quad-bad GSM plus edge, and of course we have Wi-Fi and Bluetooth 2.0 EDR built-in as well.
+And so, this is what it looks like when you get a call.
+This is what it sounds like.
+It's one of our ring tones you can pick, of course.
+So, I want to show you four things.
+I want to show you the phone app, photos, got a calendar, and SMS messaging.
+The kind of things you would find on a typical phone, but in a very untypical way now.
+So, let's go ahead and take a look.
+So, let's go to our phone first.
+You see that icon in the lower left-hand corner of the phone?
+I just push it right here, and boom, I'm in the phone.
+And I've got five buttons across the bottom.
+Favorites, recent contacts, keypad, and voice mail.
+I'm in contacts right now again.
+How do I move around my contacts?
+I just scroll through them.
+And so, let's say, I want to make a call to Johnny Ive.
+I can just push here, and I see Johnny Ive's contacts, with all his information.
+His three phone numbers, his email, whatever else is address, whatever else I've got, it's all in one place.
+And if I want to call Johnny, all I do is push his phone number.
+I'll call his mobile number right now.
+And now we are calling Johnny here.
+You turn on the speaker phone like this if I wanted to.
+Hey Johnny, how you doing?
+I'm good, how you doing?
+Well, it's been two and a half years, and I can't tell you how thrilled I am to make the first public phone call with iPhone.
+I remember when we first started working on this, and it's just unbelievable.
+What, what is this?
+I've got another call coming in.
+Johnny, can I put you on hold for a minute?
+Yes, you can.
+Okay.
+So I put Johnny on hold, and how I fill?
+Oh Steve, I wanted to be the first call.
+Sorry, Phil.
+It's just unbelievable.
+Whoa, whoa, whoa, what is this?
+I've got another call coming in.
+Johnny, can I put you on hold for a minute?
+Yes, you can.
+Okay.
+Sorry Phil, as you can see, it's put Johnny on hold, and Phil, I can just touch Johnny and bring Johnny back.
+Hey Johnny, are you there?
+Yeah, me.
+Hey listen, Phil called, did you mind if I conference him in?
+I'm like, sir.
+You can see the button has changed to merge calls right there in the middle, so I just pushed that right here, and now I've created a conference call.
+Hey, I'm here.
+Johnny, are you there?
+I'm here.
+Phil, you there?
+Oh, Phil, hey, get on.
+So here we are.
+And listen, I got to get back to my keynote.
+So if I want to do that, what I'm going to do, I just touch this arrow right here, and I'm going to go ahead and take Johnny private here, and put Phil on hold, Johnny.
+Do you have anything to say on the first phone call?
+It's not too shabby, is it?
+It's not too shabby.
+It's not too shabby.
+You take care Johnny.
+I'll see you later.
+And I end this call, and it fills on hold.
+I take him off a hold.
+Phil, thanks very much.
+I got to get back to the keynote now.
+All right, I'll see you later.
+Bye-bye.
+Bye-bye.
+Alrighty.
+So, I've also got a way to make a list of favorites here, for my most often called numbers, so I can just touch it once and dial the number, and I might want to add somebody to favorites, so let's say I want to add Phil Schiller, I just pushed that plus button in the upper right hand corner, right there, and up pop my favorites, and I can just go to S's here, and there's four.
+So I can just touch it once and dial the number, and I might want to add somebody to favorites, so let's say I want to add Phil Schiller, and I just go to S's here, and there's Phil.
+So Phil Schiller right there, and I'll put, let's say I want to put Phil's work number, and it's added Phil right there, you can see the favorites.
+I can add favorites by pushing the edit button in the upper left hand corner, and I can move Phil up if I want to, you know, maybe to the top, and let's say I'm not going to, you know, type Tony's change is number, I got to update this anyway, so I'm going to get rid of that, and I could just remove Tony.
+Boom.
+There we go.
+It's that simple to edit these things.
+Very, very easy.
+I've got recents right here, which is all my recent phone calls.
+If I want to see the ones I've missed, which were in red, I can just go up and touch that button at the top, and boom, those are all the ones I've missed.
+And those are all the calls that I've placed or have gotten.
+If I want to dial the phone, if I'm real last century, I can push keypad here, and I can dial a call just with, oops, called four, sorry, wrong number, 408, 9, 6, 10, 10.
+And it formats the numbers, and if I want to, I can just keep dialing, let's say it's a European number, and the numbers just keep getting smaller, real simple, very simple to dial with a keypad.
+Now let me show you visual voicemail.
+This is so cool.
+This is a collaboration that we've done, which I'll talk more about later, and it allows us to have random access voicemail, go directly to the voicemails we want.
+So as an example, I come to my voicemail, and I say, oh, there's one by El Gore.
+I want to hear that one, I just push it.
+Hi Steve, now, which I could be there today.
+I'm here in Nashville training people to give my slideshow, but I wanted to say congratulations on the iPhone.
+It is unbelievably cool.
+Good luck with the presentation.
+Call me later.
+Now if I want to call Alback right now, I could just push that callback button, but I want to listen to one from Tim Cook.
+I've got here, so let me listen to Tim.
+Hi Steve, it's Tim.
+I've got the results from last quarter.
+Revenue was, you know, I'll just wave and tell you when I see you in person.
+Give up on the two now.
+See you there.
+And there's an awesome.
+And so I've got voicemail, how I want to listen to it, when I want to listen to it, in any order I want to listen to it, with visual voicemail.
+So that is a quick tour of the phone app.
+Now what I want to do is show you SMS texting.
+So I just go to that SMS icon in the upper left hand corner, and push it, and I not only have SMS texting, but I have multiple sessions.
+So I can be carrying on conversations with people, and every time I get a new message from them, I'll be alerted to that and I can go check it out.
+So as an example here, I've got 80Q and I've been carrying on a conversation with Eddie, and I just tap this, and here's the conversation I've been carrying on right here.
+And if there's a new message, so there's a new message from Phil.
+And let's see, the conversation was, hey Steve, hi.
+Still on for dinner tonight?
+Absolutely.
+Your turn to pick.
+I pick sushi, Ron.
+How about seven o'clock tonight?
+And I can just say, you know, sounds great.
+Now I've got this little keyboard, which is phenomenal.
+It does error prevention and correction, and not that I won't make some, I probably will.
+But it's actually really fast to type on.
+It's faster than all these little plastic keyboards and all these smartphones.
+So I can just say, sounds great.
+See you there.
+And I can send that.
+And there it is.
+Right?
+It's that simple.
+And when Phil messages me back, I'll be alerted.
+I'll see the dot.
+I can just go pick up that conversation where it left off.
+If I want to send a message to Eddie or Scott, I just push this and send a message and go.
+It's so simple.
+So that's SMS messaging.
+And, you know, again, you've seen the keyboard.
+It's pretty awesome.
+We'll come back to that a little bit later.
+And the third app I want to show you is part of the phone package is Photos.
+You know, we have a two megapixel camera built in, as I said.
+We also have the coolest photo management app ever, certainly on a mobile device, but I think maybe ever.
+And so here's our photos.
+I'm going to go into our photo library.
+And this is our library.
+And again, I can just scroll through photos here with my finger.
+Pretty cool.
+Let me go to Photo Album.
+I'll pick Italy.
+And I just, let's start at the top.
+And to go through pictures, I just swipe them.
+I can just swipe through my photo library.
+Oh, there's one that's landscape.
+I can just turn my device and take a look at it.
+Pretty cool, huh?
+Very.
+Right?
+So I can even swipe when I'm in landscape here.
+You know?
+Miss Alassa?
+The other thing I can do is I can take any of these pictures and I can make them bigger.
+And so let me go ahead and get the camera back up.
+Yeah, there it is right there.
+I can just take my fingers and we call it the pinch.
+I can bring them closer together and move them further apart to make it bigger or smaller.
+And so I can just move them further apart and stretch the image.
+That's cool.
+And move it around.
+That's cool.
+And now, now what I can do is I can pick to make this my wallpaper.
+And of course I could, you know, jigger it around then and just set the wallpaper.
+And now, when I, if I'm back at home and I go to sleep, when I wake up from here on out until I reset it, that's my wallpaper.
+Whenever I'm making a call, that's what I'm going to see.
+Boom.
+There we go.
+So photos, SMS, and the phone app.
+That is part of our phone package for iPhone.
+So, I'm going to go ahead and get a call.
+Get a call.
+Again, really great call of management features.
+Just scroll through contacts with your finger.
+All the information at your fingertips here.
+Favorites.
+Last century.
+Visual voice mail.
+Callender.
+SMS texting.
+Incredible photo app.
+The ability to just take any picture and make it your wallpaper.
+It's pretty unbelievable.
+And I think when you have a chance to get your hand on it, you'll agree we have reinvented the phone.
+Okay.
+So, now let's take a look at an Internet communications device.
+It's part of iPhone.
+So, what's this all about?
+Well, we've got some real breakthroughs here.
+Start off with, we've got rich HTML email on iPhone.
+The first time, really rich email on a mobile device.
+And it works with any iMap or pop email service.
+You got your favorite mail service.
+It will likely work with it.
+And it's rich text email.
+We wanted the best web browser in the world on our phone.
+Not a baby web browser or a WAP browser, a real web browser.
+And we picked the best one in the world, Safari.
+And we have Safari running on iPhone.
+It is the first fully usable HTML browser on a phone.
+So, let's take a look at the first one.
+First, we have Google Maps.
+Maps, satellite images, directions, and traffic.
+This is unbelievable.
+Wait till you see it.
+We have widgets starting off with weather and stocks.
+And this communicates with the Internet over Edge and Wi-Fi.
+And iPhone automatically detects Wi-Fi and switches seamlessly to it.
+You don't have to manage the network.
+It just does the right thing.
+Now, I want to take a second and talk about email.
+We hook up to almost any iMap or pop three mail service.
+I just want to give you some examples.
+iMap, of course, is the best because you can keep your folders and all your email on the server and access it from anywhere.
+Yahoo, email is iMap.
+Microsoft Exchange has an iMap option.
+And obviously, dot-mackmail is iMap as well.
+Pop three, Google Gmail, AOL mail, and most ISPs are pop three email.
+Now, I want to take a minute and highlight one.
+Yahoo, mail.
+Yahoo, mail is the biggest mail service in the world.
+They have over a quarter billion users.
+Biggest email service in the world.
+And today, we are announcing with Yahoo that they are going to provide free push iMap email to all iPhone customers.
+So, this isn't just iMap email.
+It is push iMap email.
+So when you get a message, it will push it right out to the phone for you.
+Same as a blackberry.
+Free iMap push email from Yahoo.
+So we think this is a pretty big deal.
+So what I'd like to do now is I'd like to show you mail, Safari, Google Maps, and widgets running on iPhone.
+So let's go see.
+So let's go into mail.
+Second icon from the left on the bottom there.
+I just touch it with my finger and boom, I'm there.
+And so I've got an inbox here.
+And this is, by the way, running live on Yahoo iMap email.
+This stuff is coming off of Yahoo server somewhere up in the cloud.
+And so I can say James Vincent here sent me an email.
+He's a proud father.
+And there we go.
+And I can just scroll it here.
+I've got in line photos, rich text email.
+There we go.
+Let's look at another one.
+Phil Schiller.
+She loved the gift.
+Again.
+Again, in line photos, rich text.
+Pretty nice.
+Shopping list.
+Again, rich text right here.
+Pretty cool.
+Directions to Sushi Ron for tonight's dinner.
+Now, iPhone, of course, parses out phone numbers.
+And as you can see, there's a phone number in blue.
+I can just touch it.
+And boom, I'm going to call this place.
+Right?
+I don't really want to call them.
+So I'm going to end the call here.
+You get the idea.
+And this last one, Ken Bureskin is one of our marketing folks.
+He just returned from Antarctica.
+Ken's a great photographer.
+And he took all these great photos of penguins in Antarctica.
+It's really cool.
+Look at this.
+That's great.
+Right in your email, right on your phone.
+And if I want to, by the way, I can look at my email with a split view, just like I do on my computer.
+And so I can select something here and just look at it down here.
+I can't prove my message is real fast.
+And just find that one message I was looking for.
+But I actually like the full-screen view.
+And of course, we have a standard inbox and drafts and sent, and all sorts of folders you can put things in as well.
+So it's real email, just like you're used to on your computer, right here on your phone.
+It's extraordinary.
+And again, free IMAP email from Yahoo.
+Now, let me go ahead and just create an email message.
+So again, when I don't need the keyboard, it's not there.
+When I do, it's there.
+I want to send a message to, let's say, Phil.
+I just type pH and boom.
+Phil Schiller, it's address completion.
+And maybe I'll send one to Scott Forestall as well.
+And there's Scott right there.
+And let's say the subject is dinner.
+Dinner and, you know, oops.
+See you tonight.
+Boom.
+And I just send send that email and we're done.
+So that is mail.
+Full desktop class email running on a mobile device.
+All right.
+Now, I want to show you something incredible.
+I want to show you Safari running on a mobile device.
+So let's go to the web.
+And here we are.
+I'm going to load in.
+I rather than Apple.com here, a little more universal site.
+I'm going to load in the New York Times.
+It's kind of a slow site because it's got a lot of images.
+But here we are loading it.
+We're loading it over Wi-Fi right now.
+And rather than just give you a WAP version of the New York Times, rather than give you this wrapped version all around, we're showing you the whole New York Times website.
+And there it is.
+And guess what I can do?
+I can just put this into landscape mode and there it is right there.
+And I can scroll here if I want.
+Scroll up and down here.
+Boom.
+Still loading it in.
+There we go.
+Or I can just get back like this.
+Now, this is really great and I can see the whole page.
+But of course I can't read it.
+It's a little too small.
+So I can get in with my fingers and pinch it.
+But we have an optimization here.
+I can just double tap on anything.
+And it automatically fills up the screen with it.
+And I can just scroll around like this and scroll over here.
+And I can even make this text bigger if I want to.
+And there it is.
+You can just double tap again to get back to the full page.
+Isn't it cool?
+And so I'm just, look at this.
+There is the New York Times.
+And again, any article I want?
+Boom.
+There we go.
+Boom.
+Unbelievable.
+Now, you can look at me.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+I can't read it.
+You can see multiple web pages as well.
+And I just push this button in the lower right-hand corner.
+I could add a new page if I want, and I go to Amazon here, out of my bookmarks.
+I'd go to Amazon, and I love to go to the DVD section of Amazon and see what DVDs are selling.
+I like it, especially when businesses are at the top.
+And so here is Amazon coming, even before the entire page is loaded, And I'm going to say, let's go to the DVD section here.
+And now it's doing that.
+And here we are.
+And there's a section over here on the right-hand side right there.
+And these are the top sellers updated hourly.
+Oh, look, Al's an inconvenient truth is number one.
+All right.
+And here's all the other movies.
+Raising out of me, I like that.
+Pirates of the Caribbean.
+Fantastic.
+And so I've got this right here, and I can go back to the New York Times if I want.
+Let's zoom up to that picture so we can all see it.
+And again, here.
+Isn't this cool?
+Just over there.
+Go back to this one.
+I can get rid of them just by hitting the X.
+And there we go.
+Isn't that incredible?
+Safari.
+So, you know, if you've ever used what's called a web browser on a mobile phone, you'll know how incredible this is.
+I hope you never really know, because it's bad out there today.
+And this is a revolution of the first order to really bring the real internet to your phone.
+Let me show you some about widgets here.
+Let's go to stocks right now.
+We're going to load stock information off the web.
+And just right onto the phone here.
+Oh, look, Apple's off.
+That's great.
+Well, I can get the different graphs here if I want to.
+And that's fantastic.
+Let's look at the percentages here.
+Oh, good.
+Good, good.
+So I've got stocks right here, and I can go look at the weather.
+Let's see what it's like outside.
+49 degrees.
+But it's supposed to get the 61 today, so that's good.
+We'll just stay in here until it warms up.
+Now, I've got Paris right here.
+I can have as many of these as I want, so it's nighttime in Paris.
+It's actually warmer in Paris at night than it is here today.
+Wow.
+Aspen.
+I don't know snow till later in the week.
+And Hawaii.
+Oh, it's raining.
+That's not good.
+Well, anyway, here's four places.
+Hawaii, Aspen, Paris, and San Francisco, and again, the weather widget.
+Now, to conclude with the internet device section here, I want to show you something truly remarkable, which is Google Maps on iPhone.
+I hit our Maps application here, and it's coming up.
+And it shows us North America.
+And I'm going to go to Moscone, West.
+That's where we are right now.
+And here we are.
+Boom.
+That's where we are.
+Now, what I'm going to do is I'm going to go look for something.
+I'm going to certainly want to cup a coffee afterwards, so I'm just going to look for Starbucks, right?
+Starbucks.
+So I'm going to search for Starbucks.
+And sure enough, there's all the Starbucks.
+Now, I can get a list of Starbucks here.
+So I can pick that one if I want.
+And I can even go look at that Starbucks.
+And there it is.
+And let's give him a call.
+Good morning.
+Starbucks, turn on the lock and help you.
+Yes, I'd like to order 4,000 lattes to go, please.
+No, just kidding.
+Wrong number.
+Thank you.
+Bye-bye.
+OK. Now, I can zoom in by just, again, pinching if I want to.
+Or I can just double-click the zoom in.
+And I get just higher and higher resolution versions of the map.
+So let's go somewhere else here that I've got bookmarked.
+And let's go to the Washington Monuments.
+And so here is Washington, DC.
+And I could just double-tap.
+And I'm going in a little further here.
+Just double-taping in.
+And there's the Washington Monument there.
+And I'll double-tap in again.
+But now I want to show you something else.
+Satellite images.
+So I just hit this button called satellite down at the bottom.
+And it's going to replace the map with satellite images.
+There we go.
+And I can just double-tap in.
+And double-tap in again.
+And let's catch it up to me here.
+There we go.
+And let's double-tap in again.
+This is the Washington Monument.
+There we go.
+Look at this.
+You see people down there.
+APPLAUSE Whoops.
+There we go.
+Yep.
+And that is incredible.
+Right on my phone.
+It's unbelievable.
+So let's go.
+I've got another one, the Eiffel Tower, which is very cool.
+I set this one to be.
+Look at this.
+There's the Eiffel Tower.
+There's people at the Eiffel Tower, you can see.
+Look at that.
+Incredible.
+And here just one last one.
+I have to show you the Colosseum in Rome.
+So again, here we are in Rome.
+That's as far as we can go with the map, but we can go a little further with the satellite.
+There's the Colosseum.
+There's the Roman Colosseum.
+Satellite imagery right on the phone.
+Look at that.
+That's the Colosseum.
+Unbelievable.
+Right on our phone.
+What do you think?
+I'm going to try one.
+APPLAUSE So.
+So all these amazing things, this is a breakthrough internet communicator built right into iPhone.
+The first rich HTML email on a phone.
+The first real web browser on a phone.
+Best version of Google Maps on the planet, widgets, and all with Edge and Wi-Fi networking.
+We're very, very happy with this.
+Again, email.
+Push email.
+I'm app free.
+Yahoo.
+And almost any other I'm app and pop mail service you want to hook up to.
+Incredible.
+New technology for entering text.
+Far better than we've seen on phones before.
+A real browser on the phone.
+We can see real web pages in portrait or landscape.
+We can zoom in on what we want to take a look at more closely.
+Google Maps and widgets.
+It's the internet in your pocket for the first time ever.
+Now, you can't really think about the internet, of course, without thinking about Google, right?
+And for Google, what we have on our phone working with them is, of course, Google Search.
+We have that built right into the browser.
+Just type what you want.
+Hit Google and you're off.
+And Google Maps.
+We've working very closely with them to make this all happen.
+We're thrilled with the results.
+And it's my pleasure now to introduce Dr. Eric Schmidt, Google CEO.
+Congratulations, Steve.
+What an incredible job.
+So Steve, I've had the privilege of joining the board.
+And there's a lot of relationships between the boards.
+And I thought, if we just sort of merge the companies, we could call them AppleGoo.
+But I'm not a marketing guy.
+What I like about this new device and the new architecture of the internet is that you can actually merge without merging.
+Steve says that each company should do the absolutely best thing that they can do every time.
+And I think he's shown it once again today.
+And internet architecture is, right?
+Internet architecture is allowed you now to take the enormous brain trust that is represented by the Apple development team and combine that with the open protocols and data services that companies like Google and the others represented that are coming up in a bit to actually put them together in a seamless environment for end users.
+What I particularly like about this is it's the first time it's all to come together in one place.
+Now from a Google perspective, what we've done, if we've pushed very, very hard to partner with others and particularly to partner with Apple, the companies, the cultures are similar, innovation, having fun while you're doing it, and also working with many, many different data services.
+So Steve showed a little bit of some of the components, some of the pieces, and so forth that you can do.
+But understand that this is a set of data that's from maps and partners and so forth.
+So that you really can get the full integration.
+The person doesn't understand how hard he was to get it all together.
+It comes together seamlessly.
+From my perspective, this is the first of a whole new generation of data services where these powerful based cloud computers, Google being, we hope, a leading representative, provides HTML, XML, and other sophisticated services that the Safari browser that's embedded in the iPhone, and many other of its type devices and future devices out of Apple, will be able to take advantage.
+Steve, my congratulations to you, and this product is going to be hot.
+Thank you.
+Thanks.
+Thank you very much.
+Thank you very much.
+As a board member, you'll get one of the first ones.
+OK. Now, you also can't think about the internet without thinking about Yahoo.
+And again, on the phone, we've got Yahoo Search built right in.
+You can select which one you want to use.
+Just type in something, hit that Yahoo button, and boom, you're off.
+And of course, we also have Yahoo IMAP email services.
+And so it is my great pleasure to introduce Jerry Yang, co-founder, and chief Yahoo.
+Jerry.
+APPLAUSE Congrats.
+Thank you.
+Thank you.
+Thank you, Steve.
+I'm not a board member of Apple, but I would love to have one of these, too, obviously.
+Wow.
+All this for a phone, pretty incredible.
+And what a great device, Steve.
+We are really proud at Yahoo to be partnering with Apple on not only the Yahoo IMAP email, the first one we're doing, but also, hopefully, on a whole variety of other popular services from Yahoo.
+One of the things that we're going to be doing with Apple is also launching some of our new services that we announced this week, the Yahoo Go, Yahoo One Search.
+And hopefully, we can get Yahoo One Search, which is one of our new products, on of this phone, which is really innovative way of looking at Search.
+You're really able to not get the traditional web search results, but rather get all the things you want in a very concise format, aggregated, you're typing things like San Francisco, you'll get all the local news, local weather, and local maps all in one place.
+So we're looking forward to doing that.
+As Steve said, mail is a killer app on the phone.
+And Yahoo is really trying to redesign and re-innovate and reinvent the web experience and internet experience on the mobile devices.
+So on the email, you can look forward not only to great web services, like the best spam protection, address books, integration, and a calendar if you're all on Yahoo, just think it's basically like having a Blackberry without the Exchange server.
+This is really going to be really great not only having a seamless experience from your PC, take into your mobile internet.
+Yeah, there's some clapping out there.
+I can hear that.
+Lastly, we want to be able to really take what Apple is doing on the phone, by reinventing the phone, and reinventing the device.
+We want to be able to do that on the internet.
+And what we're doing is really being able to take great form factors, great user experiences, and great UI that we're taking from not only the web, but also in the back-hand services, and translate them into a seamless web experience.
+So we're big believers and great hardware and great software.
+And we're big believers in taking the web services and the web 2.0 model and taking it to the device world.
+So Steve, my address, you got it all?
+Please send it to me.
+Thanks again.
+Thanks.
+It's great to be a partner.
+Thank you.
+Thank you.
+Thank you.
+You know, it's been great having the two greatest companies on the web right down the block, Google and Yahoo.
+And we've been able to work with these guys really closely.
+And it's been an incredible pleasure to work on this great technology and bring it to everybody in iPhone.
+So thank you guys so much.
+You've really helped us put the internet your pocket.
+So internet communicator, an iPod, and a phone.
+Let's put them all together and see what you can do in a real-life scenario.
+So let's take a look.
+I want to listen to some music.
+So I'm going to go into my iPod here.
+And let's see.
+In artists, I want to listen to, oh, maybe, Red Hot Chili Peppers.
+I love those guys.
+And so I'm listening to a song of theirs.
+And let's see what happens when I get a phone call.
+Music fades out.
+Screen changes.
+I have a phone call coming in.
+So I can ignore it, but I think I'm going to answer it.
+So I'll answer it.
+Howdy.
+Hi, Phil.
+Now, I know who Phil is because he's in my address book.
+So it puts his little picture up here and everything up there.
+And how I feel, listen, I'm kind of busy right now.
+What can I do for you?
+Oh, I was hoping you were done because there's a photo that you had a four hour, kind of open to contents me.
+I do, you said it's my wallet, there's a photo.
+OK, hold on, just sec.
+So I push the home button here down at the bottom.
+And I go home right here.
+And I'm still on the call.
+You can see the phone thing flashing right there on the lower left.
+And I go into photos.
+And now I'm in photos.
+And again, you can see the bar across the top.
+The green bar, I can just touch that to return to the call.
+And Phil wants a photo that he wanted to use it for his screensaver.
+It was one of the ones that was taken in Hawaii.
+I think it was this one.
+Yep, there it is.
+So you want me to mail this to you, Phil?
+All right, so again, I just go down here and push this button.
+And rather than use it as wallpaper, I'm going to email it.
+And so watch what happens now.
+It shrinks it a little bit.
+And then a compose window will come up right behind it.
+There we go.
+And I will just tap in the two fields and send this to Phil here.
+Phil Schiller, there we go.
+And the email is there, yep, it's there.
+And I'm just going to send it.
+Hey, Phil, that should be on its way right now.
+OK, thanks.
+Yep, anything else?
+Yeah, I was kind of hoping if you had done soon that we could not only get some dinner, but maybe catch your movie tonight.
+So anything you want to see?
+Let me go check it out.
+I think I got FanDango and my bookmarks here.
+And yes, I do.
+Let's go to FanDango.
+Figure out what movies are playing.
+This is fun.
+There's nothing personal here.
+Yeah.
+I've got to go catch a movie.
+I just want to read too much into it.
+OK, here's FanDango.
+Let's just double tap.
+Here's the movies playing.
+Yep.
+How about we go see Night at the Museum?
+I haven't seen that yet.
+I haven't either.
+That'd be great.
+Great.
+Alrighty.
+Hey, take care, Phil.
+Now, what I'm going to do is to go back to my call.
+I just touched the top here.
+And I'm back at my call.
+And I'm just going to go ahead and end the call.
+And what happens now?
+OK. Back in my music.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+Hi.
+So this is what it's like when you put it all together.
+iPhone.
+Today, Apple is reinventing the phone.
+Now, how does this stack up?
+Let's go back to these guys.
+Let's take a look.
+Well, these are their home screens.
+And again, as you recall, this is iPhone's home screen.
+This is what their contacts look like.
+This is what iPhones contacts look like.
+And again, you just pick one and you see everything about that person, all the information you have.
+This is what mail looks like on these smartphones.
+Again, this is what mail looks like on iPhone.
+You have rich HTML rich text email.
+This is what calendars look like on these guys.
+This is what calendars look like on iPhone.
+This is what the web looks like.
+And we tried to make it look as good as we could on these.
+It usually looks worse.
+And this is what you get.
+And of course, this is what you get on iPhone.
+And you can zoom in and see anything you want.
+And this is what you get from music players.
+Nobody really uses them much.
+And this is what you get on iPhone.
+So after today, I don't think anyone's going to look at these phones quite the same way again.
+Now, let me tell you about some accessories we've got for iPhone.
+Got some great stereo headphones we're going to be shipping.
+And they've got a little addition to them, which is this little thing right over here.
+It's a microphone and a switch.
+So you can talk.
+They have them in there.
+You can get a call and just talk the beautiful reception on the microphone and just push it together to answer a call or hang up on a call.
+And so you can be wearing them and just dangles right there and picks up your voice beautifully.
+And we also have a Bluetooth accessory headset that we're going to be shipping.
+And there it is right there.
+It's incredibly small.
+And just to let you see what it looks like, it's got one button on the top for answering and hanging up a phone call.
+You never have to turn it off or on.
+It just goes to sleep.
+It automatically pairs with iPhones.
+You don't have to worry about pairing.
+It's really simple.
+And it's very tiny.
+This is what it looks like in here.
+It's just beautiful.
+It's the coolest one that we've ever seen.
+So Bluetooth headset coming as well.
+Battery life.
+There's a lot of stuff.
+A lot of these phones, a lot of these smartphones have pretty low battery life.
+We've managed to get five hours of battery.
+And that's for talk time or video or browsing.
+Five hours of battery life.
+And 16 hours of audio playback.
+So that's dramatically better than any of these smartphones.
+APPLAUSE There's a tremendous amount of high technology in iPhone.
+We've been pushing the state of the art in every facet of this design.
+So let me just talk a little bit about it here.
+We've got the multi-touch screen, a first.
+Miniaturization, more than we've ever done before.
+A lot of custom silicon.
+Tremendous power management.
+OS 10 inside a mobile device.
+Featherweight, precision and closures.
+Three advanced sensors, desktop class applications.
+And of course, the widescreen video iPod.
+We've been innovating like crazy for the last few years on this.
+And we've filed for over 200 patents for all the inventions in iPhone.
+And we intend to protect them.
+APPLAUSE So a lot of high technology.
+I think we're advancing the state of the art in every aspect of this design.
+So iPhone is like having your life in your pocket.
+It's the ultimate digital device.
+So what should we price it at?
+Well, what are these things normally cost?
+An iPod, the most popular iPod, $199 for four gig nano.
+What's a smartphone cost?
+Well, they say you get the phone and some of the internet with it, although that's questionable.
+But they cost somewhere between around $2.99.
+You can get them for $1.99.
+Palm just introduced a new one at $3.99 yesterday.
+So generally average about $2.99 with a two-year contract.
+Now, these phones sort of do music, but nobody uses them for music, because they're not very good.
+And so they end up buying an iPod to go with the phone.
+We know.
+We sell the iPod.
+And so people spend $499 on this combination.
+What should we charge for iPhone?
+Because iPhones got a lot more than this stuff.
+It's got video, real video.
+It's got this beautiful, gorgeous, wide screen.
+It's got multi-touch user interface.
+It's got Wi-Fi.
+It's got a real browser.
+It's got HTML email.
+It's got cover flow and on and on and on.
+And this stuff would normally cost hundreds of dollars.
+So how much more than $499 should we price iPhone?
+Well, we've thought long and hard about it, because iPhone just does so much stuff.
+So much better experience on a call and managing your contacts and visual voice mail.
+Random access voice mail for the first time.
+And texting and email and real browser and Google Maps and tremendous iPod and cover flow and video.
+What should we price this thing at?
+Well, for four gigabyte model, we're going to price it at that same $499.
+No premium whatsoever.
+$499.
+And we're going to have an eight gigabyte model for just $599.
+So we're going to price it starting at $499.
+Now, when's it going to be available?
+We're going to be shipping these in June.
+Yeah, June.
+We're announcing it today because with products like this, we got to go and get FCC approval, which takes a few months.
+And we thought it'd be better if we introduced this rather than ask the FCC to introduce it for us.
+So here we are.
+And we're going to be shipping it in June.
+In the US, we're going to Europe, hopefully, by the fourth calendar quarter of this year, and Asia in 2008.
+So June in just a few months, we'll be shipping in the US.
+And when we do, our partner is going to be singular.
+We've chosen singular.
+They are the best and most popular network in the country, 58 million subscribers.
+They are number one.
+And they're going to be our exclusive partner in the US.
+Now, it's a unique partnership, though.
+We're not just going to be selling phones and services together.
+We're going to be doing innovation together.
+We worked with singular on visual voicemail, because it's an innovation that requires both innovation on the phone and in the network.
+You can't do it in just one place.
+You have to do it in both places and collaborate.
+And so visual voicemail is the first fruit of this collaboration.
+And you will see more.
+And when we start shipping in June, we'll be selling iPhone through our own stores and through singular stores.
+And it's my pleasure to introduce the CEO of singular Stan Sigmund.
+Congratulations, my friend.
+Thank you.
+Well, this is a good thing.
+Thank you.
+Thank you.
+You know, Steve and I first met about two years ago in New York City when he shared with me this vision that he had for this product.
+And we've been working on it for some time and actually entered into a contractual agreement without us ever seeing the device or the phone.
+That was because of the confidence that I have and Steve and his leadership team to deliver on the vision that they have.
+And every time I see this, it's just wow.
+It's just wow.
+It's really, really cool.
+You've exceeded my expectation.
+It's a real honor for singular to be partnering with Apple today.
+And I've brought with me another company to celebrate in this.
+And it's a pretty big company.
+It's the new AT&T.
+You know, 11 days ago, AT&T became a full part.
+Having singular became a full part of the new AT&T family.
+And this new family will help fulfill the vision we have of wireline, wireless, broadband, and video coming together on one device in the ways that customers haven't imagined.
+Today, singular and Apple are truly raising the bar.
+We're announcing a partnership that the mobile phone experience takes a mobile phone experience to a real new level by bringing together the best network with the best device.
+Networks are the foundation of what singular and AT&T do.
+Singular offers the largest digital and voice data network in America today.
+The singular network has the fewest drop calls in this country.
+And AT&T is the largest provider of broadband internet services in this community.
+When it comes to networks, AT&T wrote the book, their quality is legendary.
+Put this network experience that singular and AT&T have and Apple products together.
+And what do you get?
+What do you get the best voice and data services with the best user experience available anywhere?
+Second, you get real, compelling products and services.
+For example, there's a visual voice mail that Steve mentioned, which lets you look at the voice message you want to hear and when you want to hear it.
+As Steve mentioned, to create the visual voice mail, it took innovation on Singular's part at the network level and bought Apple with the device.
+And I promise you'll see more of that coming down the road.
+Third, when you buy and combine Singular's 2,100 retail stores and number one wireless online store, with Apple's already legendary retail stores and online stores, you've got unmatched distribution.
+Yes, we're truly pleased to partner with Apple to deliver one of the most eagerly awaiting wireless products ever, the iPhone that he showed you.
+With the iPhone, you get a breakthrough wireless experience.
+And we'll be working shoulder to shoulder with Steve and his team to make sure that the integration of the iPhone and our network is seamless.
+This is only the beginning.
+We are just introducing a new product.
+We're changing the way companies work together.
+Apple and Singular have a multi-year exclusive partnership.
+The new iPhone is only available with Singular wireless services.
+This is not an NVNO.
+Ours is a unique relationship that lets Apple be Apple and Singular be Singular.
+Apple has built a device combining the best phone, iPod, and mobile internet experience ever.
+iPhone owners will be Singular and AT&T customers.
+Our customers will get the best network and services in the business.
+People will benefit from the best that companies they already know and trust in what they have to offer.
+Apple, Singular, and AT&T have come a long ways, and now we're picking up the pace.
+A little over six years ago, Bell South and AT&T came together to form Singular.
+Eleven days, Singular joined the new AT&T.
+Today, Singular and AT&T are working together to provide our customers the most innovative, enjoyable, and reliable service in the industry.
+I hope you're as excited as we are as what we have to see and enjoy here.
+This is going to be a terrific ride.
+Thank you very much Steve and congratulations.
+Thank you.
+You know, as Stan said, we started working together about two years ago, and we come from pretty different worlds.
+The telecommunications industry, the computer industry, and of course music with the iPod.
+And yet we have worked wonderfully together.
+And we love these guys and we think we're going to bring some great stuff to market over the years together.
+So let's take a look at this market and how big it is.
+Like clickers not working.
+Oh, there it is.
+Maybe it is working.
+So how big is this market?
+Let's take a look.
+And all righty.
+Clicker is not working.
+All right.
+There's Scramble and Backstage right now.
+You know, when I was in high school, Steve Wozniak and I mostly Steve made this little device called a TV jammer.
+And it was this little oscillator that would put out frequencies that would screw up the TV.
+And Woz would have it in his pocket and we'd go into like a dorm at Berkeley where he was going to school and a bunch of folks would be watching like Star Trek.
+And he'd screw up the TV and somebody would go up to fix it.
+And just as they had their foot off the ground, he'd turn it back on.
+And if they put their foot back on the ground, he'd screw up the TV again.
+Within five minutes, he'd have somebody like this for the rest of the Star Trek episode.
+OK, so maybe it's working now.
+Maybe they're going to have to click and form me.
+So game consoles, 26 million game consoles were sold in 2006 worldwide.
+Actually a little smaller than you think.
+It's not such a big market.
+Digital cameras dwarfed it at 94 million.
+GDP 3 players, 135 million and PCs, about 209 mobile phones, just about a billion last year were a wide.
+So what does this tell you?
+What this tells you is that 1% market share equals 10 million units.
+This is a giant market.
+If you just 1% market share, you're going to sell 10 million phones.
+And this is exactly what we're going to try to do in 2008, our first full year in the market.
+It's grab 1% market share and go from there.
+So we're going to enter a very competitive market.
+A lot of players.
+We think we're going to have the best product in the world.
+And we're going to go for it.
+See if we get 1% market share, 10 million units in 2008 and go from there.
+So today we've added to the Mac and the iPod.
+We've added Apple TV and now iPhone.
+And you know, the Mac is the only one that you really think of as a computer.
+And so we've thought about this and we thought, you know, maybe our name should reflect this a little bit more than it does.
+So we're announcing today, we're dropping the computer from our name.
+And from this day forward, we're going to be known as Apple Incorporated to reflect the product mix that we have today.
+And I didn't sleep a wink last night.
+And I was so excited about today because we've been so lucky at Apple.
+We've had some real revolutionary products.
+The Mac in 1984 is an experience that those of us that were there will never forget.
+And I don't think the world will forget it either.
+The iPod in 2001 changed everything about music.
+And we're going to do it again with the iPhone in 2007.
+We're very excited about this.
+You know, there's an old Wayne Gretz that I love.
+I skate to where the puck is going to be, not where it has been.
+And we've always tried to do that at Apple since the very, very beginning.
+And we always will.
+So thank you very, very much for going to the past.

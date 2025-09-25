@@ -1,0 +1,359 @@
+It's been 10 months since a new management team took over at Apple.
+People have been working really, you can see a lot of cars in the parking lots, some nights in the weekends.
+And because of their hard work, I'm really pleased to report to you today that Apple is back on track.
+And because of this, the foundation this gives us, we're going to announce some great new products today.
+And we're even going to roll out the whole product strategy today.
+I just want to spend a few minutes and take you through some examples of how Apple is back on track.
+The most important thing of course is people.
+Apple's got now a very wise board of directors.
+Apple's got a very strong in your management team.
+I would hold the senior management team at Apple up against any other in the industry.
+But most important, Apple's got some very talented employees.
+Just incredibly talented people.
+And when you have great people, the most important thing is to not lose them.
+When I came back to last, Apple last summer.
+Apple was losing a lot of them.
+The attrition rate annualized was 33% which meant that if Apple kept losing people at that rate in a year or a third of them would be gone.
+And I'm very pleased to say the 10 months later, the attrition rate is 15%.
+And that that is under the Silicon Valley average today.
+And that's a very good sign.
+And part of that is because people now see how Apple can win again.
+Another part of that is because we've made Apple a much more entrepreneurial place.
+All of the key employees have lots of stock options.
+Another key thing that we've done is distribution.
+We've made a lot of changes in the way Apple distributes its products, a lot of tune-ups across the distribution system.
+And of course, one of the bigger ones was at the national level partnering with CompUSA.
+They're the biggest and they decided to reinvest in Apple and it's worked out great.
+As you know, they put an Apple store within a store in each of their approximately 170 stores throughout the US.
+When we started this program, Apple represented 3% of the CPU revenues sold by CompUSA.
+Six months later, Apple represents 15% of the revenues of CPU solar CompUSA.
+Another area that we can gauge to see Apple's health is the Internet.
+How many people are interested in Apple?
+Now, we've got over 20 million active customers.
+They might be interested in coming to our website.
+We have tons of prospective customers who might be interested.
+A lot of suppliers, a lot of software developers, a lot of competitors.
+And so this taken together can give us a general thermometer of what is the interest level of people about Apple.
+And we've invested a lot into the website and a lot into the award-winning Apple store, which is the gold standard of e-commerce now on the web.
+And a year ago, we had a million hits per day.
+Now, the average visitor clicks about 5 to 10 times.
+So that's 100 to 200,000 visitors per day.
+Today, 9 to 10 months later, we have 10 million hits a day on the website.
+That's 1 to 2 million visitors a day coming to the Apple website.
+And they're coming because they're interested in Apple.
+Growth.
+The quarter that ended December, IDC reported that Apple had a 3.4% market share.
+The quarter that ended in March, we actually grew our market share 15% to 4%.
+Now, we're not thrilled with 4% market share.
+But if we can grow our market share 15% of the quarter, we will see it going in the right direction, which it is now.
+And I think we expected to rise quite a bit more based on some of the things you're going to see here today.
+But it is now going in the right direction again.
+And finance.
+We have some pretty ambitious plans.
+We want to develop a lot of great products.
+We want to market them.
+Takes money.
+And our customers need to know that Apple is going to be here 10 years from now.
+Well, we were able to turn the company around to profitability.
+The first quarter of the management team was in place.
+And the quarter ending December, Apple turned a profit of $47 million.
+And the last quarter, we turned a profit of $55 million.
+So the company has made over $100 million in the last six months.
+In a very turbulent time in the industry, when other companies are breaking even or even losing money.
+And I think that's a great accomplishment for the company.
+In addition to that, the company is growing cash.
+We increased the cash to $1.6 billion by adding $100 million in the quarter that ended December.
+And for the last quarter that ended the end of March, 200 million more was put in the bank.
+This is really important.
+And lastly, last July, if you took the number of shares outstanding and you multiplied it by the stock price, the company was worth $1.8 billion.
+We've added $2 billion to the worth of the company since then.
+And I think it's just getting going.
+So these are some indications about how Apple is back on.
+We went back to Business School 101.
+And we said, what do our customers want in our products?
+What kind of products do they want?
+And they wanted two fundamental kinds of products.
+They wanted consumer products and they wanted pro products.
+Our design and publishing customers primarily wanted the pro products.
+Our education customers primarily wanted the consumer products.
+But they also wanted two different kinds of each one, desktop and portable.
+And we looked at this and we said, now this looks pretty simple, but we couldn't find a way to come up with anything else that captured what they wanted as succinctly and as clearly as this.
+We said, finally, this is it.
+We've got to make four great products.
+And we can meet the needs of what our customers are telling us they want.
+And we've spent the last 10 months working crazy to try to do just that.
+So the first one was the desktop pro product, right?
+The core of our publishing market.
+And of course, we introduced that product in November based on the G3 chip.
+It's a Power Mac and Tosh G3.
+And we've had exceptional success with this product.
+We've sold over 500,000 of these in the first six months of the product's life, making it the most successful new Mac in Apple's history.
+The team did a superb job on this product.
+It's based of course on the PowerPCG3 chip, which is a screamer.
+Now, its competitor, of course, is the Pentium 2.
+And what is remarkable, what's hard to fathom, but true here, is that for a given clock rate, a PowerPC chip is twice as fast as a Pentium 2 chip.
+In other words, a 266 megahertz G3 is twice as fast as a 266 Pentium 2.
+Or a 266 G3 is equal to about a 500 megahertz Pentium 2.
+Of course, you can't make one of those.
+But if you could, that's what it would be equal to.
+A 300 megahertz G3 chip is equal to a 600 megahertz Pentium 2.
+Now, how do we know this?
+We know this not only by using the systems, but we got the best independent benchmark there is, which is byte magazines, byte marks.
+And these are sort of one of the gold standards in the industry of performance.
+And they publish the results.
+And here's the results.
+The blue bars are the 266 and 300 megahertz Pentium 2's.
+And the bars on fire are the G3's.
+And they just host them.
+And as a matter of fact, Intel, we've been running some ads, as you know, Intel went back to byte magazines and said, this can't be true.
+And byte magazine examined all of their tests, and they stood by their results and republished them.
+Now, Intel has since come out with a 400 megahertz Pentium 2.
+How does that stack up?
+Not much better.
+Not much better.
+And so, when we run these ads, they're very effective in our testing.
+And they're effective because they're true.
+We are extremely happy today to introduce a totally new PowerBook G3.
+This thing has been redesigned from the processor to the keycaps, and it is going to set the new gold standard for portables out there.
+It is hot.
+It's also very beautiful.
+This is a side profile here.
+And this is what it looks like from the back of this thing, even, as gorgeous.
+And, one other thing, it eats Pentium notebooks for lunch, too.
+And...
+It's got options on displays.
+It's got a 12-inch display that's 800 by 600, same as the high-end Apple portables do now.
+But it goes further.
+For the first time in Apple portables, it goes beyond 12-inch displays, to a 13-inch 1024 by 768 display, and that same resolution in a 14-inch display.
+12, 13, and 14.
+In addition, this thing is incredibly modular.
+It's built with these two bays.
+And so, you can put one battery or two batteries in.
+Each battery gives you three and a half hours of battery life.
+You can have up to seven hours of battery life with two batteries.
+You can also put in a floppy disk drive, a CD-ROM, a DVD-ROM drive, or a third-party zip drive in there, and the bays are all hot-swappable.
+The batteries...
+The batteries are designed with a special feature.
+Just push a little button.
+It tells you exactly the state of the battery, whether it's in or out of the computer, and it's got the best keyboard of any portable we know about there.
+Now, this thing is powered by a G3 chip, so it is a screamer.
+And it comes in 233, 233, 250, and 292 megahertz.
+So, we're putting our fastest chips into these things, which we can do because ours don't draw very much power, and you don't have to fry an egg on it.
+And so, we went out and said, okay, how does this stack up against the other panneum notebooks out there?
+We found the fastest panneum notebook you can get.
+Matter of fact, they're really hard to get, because they can hardly make them.
+And we had one flown in special.
+This is the latest, greatest one, a 266 megahertz P2.
+And these are the bite marks.
+Right?
+3.9.
+Let me show you the three speed ranges of the new G3 power books.
+So, I'd like to invite Phil Schiller, our vice president of Worldwide Product Marketing on the stage, to help me with some demos.
+Phil?
+I see.
+Let me show you.
+Tell us about your computer here.
+Well, I'm glad here to come out and try to take you on head to head, because you asked me to go out and get the biggest and the best that I did.
+This is the brand new compact Amartus 7800.
+There are thousands of Windows customers waiting in line right now to try to get their hands.
+And this computer, luckily, we flew someone down to LA and got one before anyone else could, leaving plenty of Windows customers in the lurch, because they couldn't get this very machine.
+It's got a panneum too, the new mobile panneum 2, 266.
+That's the fastest speed it runs at.
+It's just been announced.
+Just come out.
+It has a 512 backside cache.
+It has advanced graphics port, HEP from Intel, with very fast 64-bit graphics.
+So this has the fastest processor, the fastest notebook graphics, and compacts really excited to bring this to the whole Windows market.
+You can't get much better than this.
+I'm scared.
+So we're just going to have to find out.
+Now, up on this screen on your left, we have the compact Armada.
+It's a $5,400 machine as fast as you can possibly get.
+Panneum 2, 266.
+In the middle, we have our new PowerBook G3 running at 233 MHz.
+And on the far right, we have the G3 running at 292 MHz.
+Of course, both of these machines are less money than the compact.
+So let's go ahead.
+What we're going to do now is we're going to run two demos.
+The first is going to be a demo of Photoshop, what a lot of our customers like to do, and have been dying to do on a fast portable.
+So we've got Photoshop here, and we've got exactly the same file on all of these computers.
+The file has got 40 Photoshop actions in it that happen automatically, and it's about 27 megabytes, exactly the same file.
+So we're going to get this queued up on all three machines, and we're going to have a bake off here.
+And Steve, this is a great demo because even a lot of the Intel people will show off Photoshop to take advantage of the fast MMX processing in Panneum 2.
+So same demos, Intel does, we can do a cross-platform.
+All right, you ready to go?
+Sure.
+Three, two, one, go.
+Here we go.
+We're racing through those 40 actions right now.
+Compositing, cropping, throwing on blurs, doing the types of actions.
+Photoshop customers do every day.
+Well, the 292 is really in the lead here.
+Let's see.
+Done.
+292 is done.
+233 is getting close.
+Done.
+And God, you're penning in there still.
+I think I can.
+I think I can.
+I think I can.
+I think I can.
+I think I can.
+Fastest penny in notebook in the world, ladies and gentlemen.
+And it's, it's almost done.
+It's done.
+Yeah.
+Okay, our second demo is we've got a macro media director here.
+And macro media director is used by a ton of our customers for multimedia presentations on the road as well.
+And we've got again a 30 megabyte director file, not that big.
+And it is exactly the same file on all the machines.
+So we're simply going to play it on these machines.
+And they're great demos because they exercise the graphics, the processor, the cache, the entire system to really get the most of the multimedia performance.
+Okay, so here we go.
+MacroMedia director, 30 megabyte file, exactly the same file on all three machines.
+Ready, set, go.
+Done.
+Done.
+Thank you.
+Well, today, I'm incredibly pleased to introduce iMac, our consumer product.
+And iMac comes from the marriage of the excitement of the internet with the simplicity of Macintosh.
+Even though this is a full-blooded Macintosh, we are targeting this for the number one use that consumers tell us they want a computer for, which is to get on the internet.
+And that's what this product is targeted for.
+I also mean some other things to us.
+We are a personal computer company.
+And all of this product is born to network.
+It also is a beautiful standalone product.
+We're targeting it also for education.
+They want to buy these.
+And it's perfect for most of the things they do in instruction.
+It's perfect for finding tremendous source of information over the internet.
+And we hope, as you see, the product that will inspire us all to make even better products in the future.
+So we think iMac is going to be a really big deal.
+Now, what should it be?
+But we went out and we looked at all of the consumer products out there.
+This is a picture of one of the better ones.
+And we noticed some things about them pretty much universally.
+The first is they're really slow.
+They're very slow.
+They're all using last year's processor.
+Very, very slow.
+Second is they've all got pretty crummy displays on them.
+They're generally 13 inch, a few 14 inch, and the quality of them is very poor.
+Apple designs all its own displays, so we're used to something much better.
+But these are pretty bad.
+Likely-known networking on them.
+Some habit most don't.
+Old generation I.O.
+devices.
+And what that means is they're lower performance and they're harder to use and most of them aren't so plug and play.
+And these things are ugly.
+So.
+Let me tell you about iMac.
+We decided to make this thing fast.
+So we decided to put in a G3 processor running a 233 megahertz.
+We debated this quite a bit because there were cheaper, slower things we couldn't use.
+And we said no.
+This has got to be the computer that we won on our desk too.
+A G3 running a 233 and we didn't forget the cache.
+It's got a half a megabyte L2 backside cache and a distinct screams as you'll see in a minute.
+On displays we said what is the largest display that you'd ever want in one of these in a consumer computer.
+And the answer to us was a 15 inch display running at 102 4 by 768.
+Let's go ahead and build in the best in every product.
+And let's have our display engineers engineer it and it's gorgeous.
+It is an Apple quality display that we are very proud of.
+Let's go ahead and put a lot of memory in this thing.
+32 megabytes standard.
+It's expandable to 128.
+4 gigabyte disk drive, 24x CD ROM.
+And let's build in a lot of communications.
+100 megabyte ethernet as standard.
+Now why?
+Because a lot of our education customers want to put these high speed networks in and because we're seeing it in homes.
+Approximately 10% of the homes in Silicon Valley now have class 5 wiring in them.
+We're starting to see lots of home networks emerging.
+A fast modem and also 4 megabit in for red.
+Built in.
+You want to beam your digital photographs in from your digital camera.
+Built into every product.
+We are going to the new generation of IO.
+12 megabit universal serial bus, two ports.
+We're leaving the old Apple IO behind.
+Stereo surround sound built into every product and a great, great keyboard and mouse.
+Now, this is what they look like today.
+And I would like to take the privilege of showing you what they're going to look like from today on.
+This is I'm AC.
+So.
+Keep your back to NG that again.
+Come back.
+Thank you.
+So if I can get this screen switched over, we've got a wireless camera here and I'd like to show you what this thing looks like.
+Come on in.
+You've got to see this thing in person.
+This is I'm AC.
+The whole thing is translucent.
+You can see into it.
+We've got stereo speakers on the front.
+We've got infrared right up here.
+We've got the CD-ROM drive right in the middle.
+We've got dual stereo headphone jacks.
+We've got the coolest mouse on the planet right here.
+We've got a really great handle here.
+The back of this thing looks better than the front of the other guys, by the way.
+And then we're on the side.
+So let's take one more swing around it so you can see this is what it looks like.
+And again, you've got to see one of these things in person.
+Great.
+Yeah, I've got some slides of what this looks like too.
+I mean, this is incredible compared to anything else out there.
+It looks like it's from another planet.
+And a good planet.
+A planet with better designers.
+Look at this keyboard.
+It's so nice.
+Two universal serial bus connectors on either side.
+So you can plug the mouse into whichever one you want with your right or left-handed.
+And you have the other one for peripherals.
+Look at this mouse.
+It's the most wonderful mouse you've ever used.
+Tell us about your computer, Phil.
+Well, Steve mentioned we went out and got the hot new compact Rosario 4540.
+And it does have an AMD K6 233 megahertz MMX optimized processor with the 256K pipeline cache on it.
+In fact, compact advertises is a third faster than most all other 233 megahertz products.
+And of course, we have a 233 megahertz product too.
+And we'll see if it is a third faster.
+But this is the best thing you can buy in this class of products and customers are just eating them up.
+Well, great.
+Well, I have an IMAC.
+And so why don't we put them through their paces?
+So let's take that same director demo again, director 6.0.
+And let's get these machines ready to go.
+And we'll see which one's faster.
+And over on the left, again, we've got the compact with the K6 233 in it.
+The most popular and fastest consumer computer out there.
+And on the right, we have IMAC.
+Well, I'm ready for you.
+All right.
+Three, two, one, go.
+Go.
+Come on.
+Just play.
+Just play.
+DJ Music.
+Can you do you want to put it out of its misery or where'd I go?
+Yes.
+I got the fastest consumer product you can buy at any price.
+It's the brand new Pentium 2, 400 megahertz MMX processor, and the compact prosario 4880.
+And over $2,500, that's without networking.
+There's no networking that comes with it.
+And that's without the monitor before you add that.
+So when you add those things, it's over $3,000.
+And this thing has 100 megahertz memory busts.
+A half a mega pipeline cache, 2X accelerated graphics for graphics, so it doesn't get any bigger a batter than this.
+Well, I have an iMac.
+So we've got the consumer K6233, the fastest, meanest, baddest Pentium 2.
+You can buy 400 megahertz and iMac.
+All right, Phil.
+3, 2, 1, go.
+Thank you, Phil.
+Thank you, Phil.

@@ -1,0 +1,703 @@
+Thanks for coming today.
+So, we have something really exciting for you today.
+Now Apple's been doing a lot of great stuff lately.
+We shipped Mac 10.1 last month, an incredibly stunning upgrade to Mac OS 10, and we're getting great reviews for it from a lot of folks in this room.
+We updated our whole portable line last week, our power books and our iBooks, a lot of things going on.
+And we lured you here today with the promise of unveiling a breakthrough digital device that's not a Mac.
+And that's exactly what we're going to do.
+So, let's start with the digital hub.
+This is a strategy that we announced in January of this year, about nine months ago.
+And that strategy is that we believe the Mac can become the center of your digital lifestyle.
+In other words, we're being surrounded by these amazing digital devices these days.
+Digital cameras, digital cameras, DVD players.
+And we think that with the appropriate application software, the Mac can add tremendous value to these devices and become an essential part of your life, where you can't get along without it.
+And that's our digital hub strategy in a nutshell.
+Now, the most important of these devices are, of course, the digital camera, the digital camcorder, the DVD player, and portable digital music players.
+So, how have we done?
+Well, we entered the year with an incredible app called iMovie2.
+iMovie2 is so far ahead of anything else for consumer video editing.
+We have millions and millions of people out there making movies on their Macs, and it is so easy to use you don't even have to read a manual.
+We are way ahead of everybody else in this, and Apple is now the largest video editing supplier in the world, both at the pro and the consumer level.
+We then followed it up in January with iTunes.
+iTunes has been an incredible hit for us.
+The easiest to use, most powerful digital music, jukebox player on any platform.
+Next, we introduced our super drive in some of our Power Mac configurations, and we rolled out iDVD, and we have now announced iDVD2, which will be shipping early November.
+It's unbelievable.
+You can make your own DVDs that play in every consumer DVD player, which there are now over 20 million of in the United States alone.
+And it's unbelievable.
+And again, we are very far ahead of everybody else in this area.
+And lastly, in photography, digital photography, we have built right into Mac OS X an application called Image Capture, which is amazing.
+You plug your camera right in, and boom, your pictures are automatically imported, and you can do a bunch of stuff with them.
+Now, a lot of people can draw charts like this on the blackboard, but we are delivering.
+We have all four of these things covered.
+And what I'd love to do is just show them to you right now, real quickly.
+Let's go over here.
+So the first thing I'm going to do is let me launch iMovie.
+And as you know, you hook your camcorder up to iMovie.
+You import your clips.
+Up here, you can drag these clips down right into your timeline if you want to make a movie with them.
+And you can do some amazing things, too.
+You can add transitions.
+You can do push transitions, or scale down transitions if you want to.
+Just add these transitions very easily to your movie.
+You can add titles and different effects.
+As an example, I can say, let's make this sepia tone.
+You can add a soundtrack and even record your own voice in your movies.
+And let me show you another fun thing you can do.
+Let me just take a clip up here.
+And I'll play this clip.
+This is a movie, by the way, that one of our customers sent in.
+They sent us a lot of these movies.
+So I just decided, let's just use a real one.
+And I can take that clip and I can say, well, let's make that clip faster.
+Let's go to the beginning here.
+We can speed things up in iMovie.
+And we can even go ahead and reverse the directions.
+So we can do things like this.
+And so let me just go play this movie again.
+It was sent in by a customer.
+Oops, I'm playing that one clip.
+Let me go back to play the home movie.
+There we go.
+Yeah.
+How many times have I got?
+For real?
+Oh, I'm having a problem.
+So those proud parents made that movie probably half an hour with iMovie.
+And there's just nothing like it in the world.
+So that's iMovie.
+Now let's say you've made some iMovies and you want to put them on a DVD and send them to your family.
+What better way to share these things?
+So you can put a bunch of iMovies on a DVD and you can even put digital photography on an iMovie.
+Ten of thousands of digital photographs.
+And we've built an iMovie and iDVD2 that lets you build these DVDs.
+Create these DVDs.
+Create the menus in minutes.
+And then just push a button if you have a system with a super drive on it and burn a DVD.
+iDVD2 adds the most incredible feature to iDVD.
+And that is motion menus.
+So you can actually, the buttons will actually display the contents of the movie behind them.
+And you can even put a motion background and a soundtrack on your DVD and make these things literally in a few minutes.
+Now what we've done with iDVD2 is if you buy it on a Mac where we can load up the hard disk, we've actually loaded up a bunch of themes for you too.
+And so we have all these themes that you can have.
+And let me go ahead and show you some of them.
+Not all of them have soundtracks, not all of them have motion backgrounds as an example.
+Here's one that doesn't.
+Where you can just see your movies animating in the buttons.
+Here's another one that's really nice.
+Parchment.
+And again you can just move all these around and do anything you'd like.
+Here's a great one.
+You can make this in a few minutes.
+Burn a DVD and send it to your family.
+Here's another fun one.
+Sports one.
+Here's a great travel one.
+Again you can just very easy to move things around.
+And then here's a great one if you have kids.
+So again to be able to take your eye movies and put you know what I mean by that is you can have a little bit of a fun one.
+And then you can just be able to move things around.
+And then here's a great one if you have kids.
+So again to be able to take your eye movies and put you know as many of them as you want on a DVD, put your digital photographs on, burn a DVD and send it to anybody you want.
+This is one of the most amazing things we've ever done.
+It's very proud of it.
+So that's our DVD.
+Now it's going to iTunes.
+We all know iTunes.
+We've got a Zillion users of iTunes and again you can rip your CDs and build your own personal digital music library right on your Mac.
+And I've got about 250 songs right here.
+You can just scroll through the songs.
+You can find anything in a second like here's a Moby song as an example.
+And you can make playlists out of them.
+Make your own playlists just by dragging music over here into playlists.
+It's pretty nice.
+We have visualization, we have all sorts of things in iTunes.
+And when you make the compilation you want, you can just push a button and burn your own CDs and play them in your portable CD players, your car, etc.
+Listen to internet radio stations, whatever you want.
+So iTunes has been an unabashed hit.
+Lastly, image capture.
+Built right into Mac OS X. I don't even need to launch an app.
+I don't need to do.
+Take my digital camera.
+Turn it on here.
+Plug it in via USB.
+An image capture will automatically recognize the camera.
+And launch as you see.
+And it pops up and says, would you like me to download your pictures?
+I will put them into the pictures folder in Mac OS X.
+And some cameras hold audio and even movies.
+And you'll put those into the music and movies folder.
+So I say, yeah, go ahead and download my pictures.
+And there it is.
+Automatically downloading it.
+It will automatically build thumbnails.
+Put them in the pictures folder for me.
+And here's my pictures.
+So I can say, great, let me take a look at those.
+Let me select all of them.
+Preview opens.
+There's my pictures.
+So I plugged my camera in 30 seconds ago.
+I've already got thumbnails.
+I'm already sitting here looking at my pictures.
+Pretty nice.
+So this is wonderful.
+And I can do anything I want with these pictures.
+Let me show you a few things.
+Again, we've built into the system.
+So I'm going to go right over here.
+And I will launch preferences.
+Let's get rid of this guy.
+And all I have to do is go to system preferences.
+And I will pick desktop.
+Now this is where I set my desktop pattern.
+And Mac OS X.1 has a really nice way to do it.
+I can just pick one of these and change my desktop pattern if I want to.
+But I can also point this at my pictures folder.
+And all my thumbnails just show up there.
+And so I can just pick one, boom, and set my desktop pattern.
+Literally a minute after I walk up to the system with my digital camera.
+I'm now looking at my favorite picture as my desktop pattern.
+Pretty unbelievable.
+Let me set it back to the default here.
+And now let me go to screen saver.
+With screen saver, everyone needs a screen saver.
+You can just set it to slide show.
+And we will take all the pictures in your desktop or in your pictures folder.
+And we will use quartz, our amazing graphics, and open GL, our amazing 3D graphics, to actually zoom into those pictures and cross dissolve between them and make this incredible slide show.
+Literally like a minute after you sat down and plugged your camera into your Mac running Mac OS X.
+Pretty remarkable.
+And we think way ahead of anything anybody else is doing.
+So those are the four apps I wanted to show you.
+And we are executing on all this stuff today.
+Nine months from announcing the strategy that having this stuff basically shipping, IDVD2 will ship early next month.
+Now as we've been designing these apps, of course we've been paying a lot of attention to the devices.
+We wanted to work with all the coolest devices.
+And we have to learn everything about these devices to make our iApps work.
+So the iApps know all about the devices.
+But a thought occurred to us late last year.
+The devices don't know anything about the iApps.
+There's never been a device that's been built.
+It can take advantage of all this amazing intelligence built into these apps running on a Mac.
+What if there was?
+What if someone built a device that could take advantage of knowing all about those iApps and get a level of integration that no one's ever achieved before?
+And we decided to do it.
+And the field that we decided to do it in, the choice we made was music.
+Now why music?
+Well, we love music.
+And it's always good to do something you love.
+More importantly, music's a part of everyone's life.
+Everyone.
+Music's been around forever.
+It will always be around.
+This is not a speculative market.
+And because it's a part of everyone's life, it's a very large target market all around the world.
+It knows no boundaries.
+But interestingly enough, in this whole new digital music revolution, there is no market leader.
+There are small companies like Creative and Sonic Blue.
+And then there's some large companies like Sony that haven't had a hit yet.
+They haven't found the recipe.
+No one has really found the recipe yet for digital music.
+And we think not only can we find the recipe, but we think the Apple brand is going to be fantastic.
+Because people trust the Apple brand to get their great digital electronics from.
+So let's look at portable music.
+Let's look at the landscape.
+The first thing if you want to listen to music portably, you can go up by CD player.
+That's one way to go.
+About 10 to 15 songs.
+Or you can buy a flash player.
+You can buy a MP3 CD player.
+Or you can buy a hard disk based jukebox player.
+These are the four choices for portable music right now.
+So let's take a look at each one of those.
+A CD player, cost about $75, holds 10 to 15 songs on a CD.
+That's about $5 a song.
+You can go buy a flash player, pay about double that, about $150, holds the same 10 to 15 songs.
+Or about $10 a song.
+You can go buy an MP3 CD player.
+And an MP3 CD, which you can burn on your computer, costs about $150, but holds 150 songs.
+You get down to $1 a song.
+Or you can go buy a hard drive jukebox player for about $300.
+It holds about 1,000 songs.
+And cost about 30 cents a song.
+So we looked at this and studied all these.
+And that's where we want to be.
+That is where we want to be.
+And we are introducing a product today that takes us exactly there.
+And that product is called iPod.
+I'm Mac, I book, iPod.
+What is iPod?
+iPod is an MP3 music player.
+It has CD quality music.
+And it plays all of the popular open formats of digital music.
+MP3, MP3 variable bit rate, Wav and AIFF.
+But the biggest thing about iPod is it holds 1,000 songs.
+Now this is a quantum leap because it's here for most people.
+It's their entire music library.
+This is huge.
+How many times have you gone on the road with a CD player and said, oh god, the CD I didn't bring a CD I wanted to listen to.
+To have your whole music library with you at all times is a quantum leap in listening to music.
+The coolest thing about iPod is that whole, your entire music library fits in your pocket.
+You can take your whole music library with you right in your pocket.
+Never before possible.
+So that's iPod.
+There are three major breakthroughs in iPod.
+Let's take a look at each one of them.
+The first one is it's all triportable.
+So if we're going to keep 1,000 songs on iPod and it fits in your pocket, how do we do this?
+How do we possibly do this?
+When we start off with an ultra thin hard drive.
+We've got a 1.8 inch diameter hard drive that's 0.2 inches thick.
+Super thin.
+And that hard drive is 5 gigabytes in capacity.
+5 gigabytes which holds 1,000 songs at 160 kilovit rate, which is a very high quality rate of MP3 compression.
+Very high quality.
+1,000 songs on this 5 gigabyte drive.
+And we've built in 20 minute skip protection.
+That's not 20 seconds.
+20 minute skip protection.
+So you can take iPod bicycling, mountain climbing, jogging, you name it.
+And you're not going to skip a beat.
+So we got this 5 gigabyte drive that holds 1,000 songs.
+How do we get the 1,000 songs on to iPod?
+We don't want to wait.
+So we've built in Firewire.
+And the Apple, as you know, invented Firewire.
+We should firewire on every computer we make.
+It's built into iPod.
+It's the first and only music player with Firewire.
+Why?
+Because it's fast.
+You can download an entire CD in the iPod in 5 to 10 seconds.
+An entire CD.
+So let's take a look at how it compares with USB.
+5 to 10 seconds per Firewire to load a CD.
+On a USB player, you're talking 5 minutes.
+You have 1,000 songs now.
+On iPod with Firewire, it is under 10 minutes.
+On a USB player, it is 5 hours.
+Can you imagine that?
+You get your USB player.
+You want to load 1,000 songs.
+You get to watch it for 5 hours while it loads the songs.
+Under 10 minutes with iPod.
+It's 30 times faster than any other MP3 player.
+So huge win.
+It doesn't matter how many songs you have with you if your battery is dead.
+So we have built in an extraordinary battery in the iPod.
+10 hours of battery life.
+And that is 10 hours of continuous music.
+We're using a rechargeable lithium polymer battery.
+This is a more advanced battery than we even use in our portable computers.
+It's the most advanced battery we've ever shipped.
+And you can recharge this 10 hour battery in one hour to 80% of its capacity on a fast charge.
+One hour.
+But maybe the coolest thing is that you know Firewire.
+The Firewire cable carries all the data from the Mac to iPod.
+The Firewire also has power on it.
+And so when you plug in to your Mac, it actually charges the iPod over that single Firewire cable.
+So you don't have another charging cable to worry about.
+It charges over Firewire.
+Every time you plug in your Mac.
+And you might say, well, what happens if I'm on the road with my iPod and I didn't bring my Mac with me and my batteries running low?
+What do I do?
+Well, we got a really cool charger that ships this part of iPod 2.
+And this charger has a Firewire port on it.
+So you take your Firewire cable and just plug it right into the charger and plug it into the outlet and charge iPod wherever you happen to be where there's an outlet.
+So 10 hours of continuous music playback with a remarkable new battery technology.
+Now you might be saying, well, this is cool.
+This is cool, but you know, I've got a big hard disk in my portable, let's say my iBook.
+I'm running iTunes.
+I'm really happy.
+I got Firewire on my iBook.
+I don't quite get 10 hours of battery life, but iBook's got better battery life than any other consumer portable.
+So what's so special about iPod here?
+It's ultra portable.
+My book is really portable, but this is ultra portable.
+And let me show you what I mean.
+iPod is the size of a deck of cards.
+A deck of cards.
+It is 2.4 inches wide.
+It is 4 inches tall.
+And it is barely over 3-4 inches thick.
+This is tiny.
+It also only weighs 6.5 ounces.
+More than most of the cell phones you have in your pockets right now.
+So this is what's so remarkable about iPod.
+It is ultra portable.
+We can stop there.
+iPod has got Apple design.
+We got one of the best design teams in the world, and they have done a remarkable job.
+And let me show you.
+This is what iPod looks from the side.
+about three quarters of an inch thick.
+I'm going to show you the back first, because I'm in love with it.
+It's stainless steel.
+It's really, really durable.
+It's beautiful.
+And this is what the front of it looks like.
+Boom.
+That's iPod.
+I haven't had one right here in my pocket, man.
+There it is, right there.
+So, this amazing little device holds a thousand songs, and it goes right in my pocket.
+This is the top of iPod.
+You can see the two connectors, a firewire connector, which supplies both the music and the power, headphone jack and a hold button.
+And this is the top of the iPod.
+It's the top of the iPod.
+The music and the power, headphone jack and a hold button.
+So, that's iPod, and we ship it with a wonderful set of earbud headphones.
+Amazing Apple design.
+Now, a thousand songs is mind blowing, but iPod's even more than music.
+Because we've got a five gigabyte hard drive in it, and we've got firewire, and so iPod is also a firewire hard drive.
+You can actually use it as a firewire hard drive and drag your documents, your photos, whatever else, right alongside your music on it, and use it to transport those to another computer.
+As a firewire hard drive, all you have to do is go into a preference panel and say enable firewire hard drive, and that's it.
+And your iPod is now a firewire hard drive.
+So, iPod, a thousand songs in your pocket.
+We think this is a major, major breakthrough, or first major breakthrough, it is ultra portable.
+Two more to go.
+Second breakthrough.
+If any of you have ever used a portable music device or any portable digital device, a camera, anything, even a VCR, you know that consumer electronics devices are not known for their ease of use.
+Well, our second major breakthrough is we have applied Apple's legendary ease of use to iPod, and the results are stunning.
+If you're going to have your entire music collection on iPod, you have to be able to find your music fast by playlist, artist, album, or song, right?
+And iPod lets you do exactly that.
+It's got a beautiful LCD display on it.
+It's backlit for low light conditions if you want.
+And it's got this really cool thing in the middle.
+What is that?
+Well, that is called a scroll wheel.
+And it was a real breakthrough in our UI design, along with our software.
+It allows really quick navigation.
+It allows you to scroll through long lists very quickly.
+We built in acceleration, so we have a long list you can get through it really fast.
+And it allows one-handed operation.
+You can hold the iPod and choose your music with one hand.
+We've also built in a piece of electric clicker, so you can actually hear it go around.
+It turns out to be a really useful thing as well.
+So that is our scroll wheel.
+Let me show you how iPod works.
+There's nothing like a demo.
+I've got a camera here pointing at iPod right there.
+And here we are.
+So you can see my finger there.
+I bite my finger now, so I should have had a finger artist.
+But you can just see how you're the clicker.
+And you can just go through these.
+I can pick a playlist here.
+And I've got my favorites playlist.
+I just search through my playlists.
+I'll just pick favorites here.
+And you know, just pick any song I want to.
+So let's pick that one.
+I can change the volume just again by moving the wheel.
+Very simple.
+Okay.
+And I can go back just by pushing this menu button.
+I can pick another song in this playlist.
+Anything I want to.
+All right.
+All right.
+Let me go back.
+Now what I'm going to do is I'm going to go into artist.
+I'll just go into artist right here, pick an artist.
+And here's a list of all my artists.
+So let me go down to the analog pick, yo-yo-man.
+And here's all yo-yo-man's albums.
+All the albums, I only have one on here.
+So I'll just pick this one album.
+And I'm just picking anything I want.
+Pick the first song.
+Very simple.
+So let me go back.
+I will go back to artist here.
+And maybe pick the Beatles.
+I've got a few albums here.
+Abby Rodin, Hard Day's Night.
+Hard Day's Night.
+Pick this song.
+Very simple to operate.
+I'm dating myself.
+And then I can go all the way back.
+I can go to songs here.
+And I've just got a list of all my songs.
+I've got over 200 songs in this thing.
+And again, notice how fast I can scroll down to the end if I want.
+Because we have acceleration here.
+It's really nice.
+Right?
+Now you notice also that I plot as capable of displaying non-English characters.
+We support several languages.
+And here's some Japanese songs.
+So I can just pick one of these.
+I can just pick one of these.
+I'm sure you'll all be wanting to get that one.
+So the other thing we have is we have some cool settings here.
+We can go up here and turn shuffle on, which will randomly pick a song from a playlist or your whole library if you'd like.
+We have a repeat one or all songs on.
+We have a backlight time.
+Now let me just turn it on for a minute.
+When it's dark, it doesn't look so good up here.
+When it's dark, it's really gorgeous.
+And you can choose to have that backlight time or stay on for a certain amount of time.
+You can set your contrast here.
+You know?
+Whatever looks good.
+And you can turn the clicker off.
+And we have a sleep timer on.
+In case you want to go to sleep, you can set this thing to turn off in so many minutes.
+iPod works in multiple languages.
+So not only can you have music titles in multiple languages.
+We can put the menus in multiple languages.
+So as an example, we can put them in German here.
+Or French or even Japanese.
+Pretty cool.
+I'm going to stay in English.
+And so this is iPod.
+Playlists, artists, songs, settings, very, very simple, a breakthrough in consumer electronics user interfaces.
+The scroll wheel lets us not only rapidly find our music, but lets us use iPod with one hand.
+So that is iPod.
+We think we got a breakthrough in user interfaces to where it is now accessible to everybody to have a thousand songs.
+And find them and navigate them faster.
+And if you only had 10 or 15 on a much simpler device.
+A big breakthrough, Apple's legendary ease of use supplied with consumer electronics device.
+Third breakthrough, auto sync.
+So let me start by backing up to iTunes.
+iTunes, as I mentioned, has been an unabashed success.
+We have distributed over six million copies of iTunes.
+Our users love it.
+They can build music libraries, digital music libraries right on their max by ripping their CDs.
+They can burn CDs.
+They can listen to internet radio stations.
+They can make playlists, etc., etc., etc.
+Great visualizations.
+iTunes has been wonderful.
+Today, we're pleased to announce iTunes 2. iTunes 2 has the three features that our users have been asking for most.
+And they are MP3 CD burning right from iTunes, Cross Fading, and Equalizer.
+So let me give you a real quick demo of these three things.
+I'll launch iTunes again for those of you that were watching carefully.
+It was iTunes 2.
+I launched before.
+And let me start with the Cross Fader.
+I'll go to a playlist like Monday Morning.
+And I'll play a Beatles song and I'll skip to the end of it so you can hear the Cross Fading.
+And I'll do it again for those of you that are watching this video.
+I'll do it again for them.
+Whoops.
+You're done?
+So, cross fading, now I'm going to show you the equalizer.
+This is black.
+You can't hold it, please.
+But we also have a bunch of presets.
+It comes with dark sides, right?
+And then, but it's wrong.
+You stretch your rest away, and you're still a cyclone.
+And cross from faint, the dye, before Jesus came.
+So, that's the equalizer.
+Now, MP3 CD burning.
+Let me pick a playlist.
+I've got 152 songs in roadtrip.
+About 10 times as many as will fit on a normal CD.
+So, I'm going to put in a CDR disc, just a normal 50 cent CDR disc, blank one.
+And I'm going to just say on roadtrip, let me go ahead and burn this.
+And iTunes will recognize that all those songs can't fit on a regular CD.
+And it's going to say, all the songs in this playlist will not fit on an audio CD.
+iTunes can create MP3 CD's, which can be played in MP3 CD players, which do you want?
+So, we can put all the songs on an MP3 CD, or just as many as will fit on a regular audio CD.
+And if I push MP3 CD, it will go ahead and burn one of those.
+Okay?
+Very simple.
+So, that, oh, last feature, actually, is we now support, again, international characters and iTunes.
+And, you know, we just pick one of these if we want.
+We want to save money.
+Let's get the idea.
+So, Okay.
+MP3 CD burning, cross fading, and equalizer.
+These are the hot new features of iTunes 2.
+It runs on Mac OS 9 and Mac OS 10.
+And it's a free download.
+We'll be releasing it in early November on www.appl.com.
+iTunes 2.
+But those aren't the coolest feature of iTunes 2.
+The coolest feature of iTunes 2 is we have designed it to be used in conjunction with the iPod.
+The two work intimately together.
+And the coolest new feature is Autosick.
+Remember I said earlier that devices don't know about iPods.
+Well, we're changing that.
+Because iTunes, not only does iTunes know all about iPod, but iPod knows all about iTunes.
+And so, when you plug in the firewire cable of your iPod into your Mac, automatically iTunes is launched, and all of your iTunes songs and playlists are automatically downloaded into iPod.
+You don't have to sit there dragging things over everything.
+Your whole music library is automatically downloaded into iPod.
+And as we saw, at blazing firewire speed, about a half a second per song.
+Now, what happens if subsequent to that, you add some new music to iTunes, you rearrange your playlist, make new playlists, delete playlists, etc.
+Well, every time you plug iPod back into your Mac, it automatically updates with the latest and greatest information from iTunes, all automatically.
+And so, when you plug it in, you'll see something like this.
+This updating the songs on iPod, and when it's done, iPod update is complete.
+And if you're most likely, if you've only added a few albums, iPod is so fast, firewire is so fast, just literally takes a few seconds.
+It's amazing.
+So, what I'd like to do now is show you.
+I've got an iPod here that I have been using.
+I've got a brand new one right here.
+And let's go ahead and show you that it's a brand new one.
+We turn it on.
+And let me go into playlists.
+Notice I have no playlist there.
+And I'll go into songs, and I have no songs.
+So, this is a brand new iPod.
+I'm going to take it over here, and what I'm going to do now is I'm going to go just simply plug it into iTunes.
+We've got the computer on the screen here.
+There we go.
+I'm going to plug it into iTunes.
+I'll just plug it in right now.
+It'll take a second to recognize it, and we'll see what happens.
+All right, iTunes should be recognizing iPod.
+And a second there it is.
+And it asks me since this is a brand new one to name iPod.
+Now, it pulls the name right off my computer, so I don't even have to type it in if I don't want to.
+And it says iTunes can automatically update your iPod to mirror its music library and playlists each time you connect to this Mac.
+If you want that, and of course if I don't do anything, it's already checked.
+And I just say great, let's go.
+And so now what it's doing is it's going to my music library, and it's downloading every single song.
+And you can see how fast it's going.
+It's really fast.
+It's already downloaded 24 songs, 26 songs, 30 songs.
+It's already filled up 190 megabytes on my iPod.
+This thing's fast.
+And we're just going to wait a few minutes.
+I got 215 songs.
+This will take well over an hour on a USB player, and it's going to take us under two minutes here.
+And again, this is the first time you get your iPod.
+Each subsequent time you plug it in, it's only going to download the updates and changes that you've made since the last time it was plugged in.
+So this is the longest you'll ever see it take, and it's under two minutes for over 200 songs.
+Okay, we're up to 500 megabytes we downloaded over 100 songs.
+Isn't this cool?
+It's never been this fast or this easy before.
+Rubber 150 songs over 700 megabytes.
+Just about done now.
+Over 200 songs.
+Look at this.
+Unbelievable.
+Okay, we're done.
+We have downloaded over a gigabyte into iPod over 200 songs.
+We literally just disconnected.
+We take it over here.
+I'm going to put the audio cable in.
+It's a headphone jack.
+The pop it up right up here.
+There we go.
+Now, let's take a look.
+Playlists.
+Here's all my playlists.
+Go into favorites.
+Go into songs.
+Here's all my music.
+All 200 songs.
+It's amazing.
+So that is auto-sinking.
+Now, we've all heard of plug-and-play before, that little acronym or that little ditty that we hear.
+This is plug-and-play.
+You literally plug it in.
+It downloads all your music automatically.
+Unplug it.
+And you've got a thousand songs in your pocket.
+Again, it's so simple to use.
+It's unbelievable.
+And because of the intimacy of iTunes and iPod working together for the first time, we have a complete and seamless MP3 music solution.
+This first time has it's ever been done.
+You know what it's like if you've had an MP3 player before.
+It's not been easy.
+This is trivial.
+So third breakthrough, auto-sink.
+Can we make your breakthroughs ultra-portable?
+Apple's legendary ease of use applied to a consumer device and auto-sink.
+There's been nothing like this before.
+And I don't think there's another company that could do this.
+To bring the hardware design, the industrial design, the application software design, Firewire, everything under one roof together to be able to create a product like this.
+It's pretty amazing.
+iPod.
+What are we going to sell it for?
+Five gigabyte hard drive, Firewire, 10-hour battery, thousand songs in your pocket, $399.
+Available in store November 10th.
+Runs on Mac OS 9 and Mac OS 10.
+And I think I can say this with some degree of certainty.
+This is going to be the hottest gift this holiday season for every Mac owner.
+So I've now got a video I'd love to show you if we could roll the video.
+There's something really cool.
+We're music and it's a whole digital world that we live in.
+We're starting to come together.
+And in this new world, we're going to be able to make a new product like this.
+We're going to be able to make a new product like this.
+And music and this whole digital world that we live in is starting to come together.
+And in this new digital music world, Apple has a lot of technology to bring to the party.
+We know how to make really cool small devices.
+We know how to make them beautiful and fun.
+iPod is this amazing digital device that fits in your pocket.
+It carries over a thousand songs.
+So now you can take your entire music library with you wherever you go.
+This is a total solution.
+If you can iPod, firewire, iTunes with all your music in it, it all works together seamlessly.
+No only Apple can do that because we make the hardware, the software, and all the technology that allows us to solve problems for people that no one else would dare take on.
+I think that the design of the iPod turned into a really personal project.
+I mean, I love music, the team loves music.
+And I think collectively, I mean, it's a product that we're really looking forward to getting our hands on.
+The iPod is so fun and easy to use.
+You just take this cool little device, you plug it in over firewire to your Mac, it launches iTunes, takes all your music, all your playlists, and automatically transfers it down on your iPod, and then you can unplug and just go.
+It's so fast, you can outpance for a whole CD in five to ten seconds, in all your music in just five to ten minutes.
+The iPod was designed for you to have your music to go.
+It's small, fits in your pocket, only six and a half ounces, as over ten hours of continuous battery life.
+And a super thin five gig hard drive.
+So not only can you take your music with you, but you can take your data with you wherever you go.
+The iPod is the first music device with firewire, which is very time faster than USB, and has power.
+So when you plug in your iPod, you both download your tunes and charge your battery.
+The iPod and your Mac work together is a complete solution.
+We make sure the hardware and the software all work together seamlessly.
+That's one of the really cool things Apple can do.
+I've had three empty three players, and I haven't figured out how to use anyone.
+And this one, I held it, and 45 seconds later, I knew how to use it.
+I'm having a hard time getting my head around the fact that you can transfer an album to this in ten seconds.
+If I was 16 years old, I think I'd be able to deal with that a lot better.
+The design is really cool.
+I have to say, I don't know who your product designers are, but boy, you're not paying enough.
+The big design story is cheerily the interface, and I think the simplicity of the buttons and of the jog wheel completely belive how powerful our effect is that the interface truly is.
+It's really, really straightforward.
+You can choose a song, an artist, or one of your own playlists.
+It's a beautiful thing.
+That's it.
+It's so simple.
+If you hold the menu button down for a couple of seconds, that would step back to item.
+You've even got a choice of languages.
+It's completely intuitive.
+We're surrounded by loads of small products that are, I think, really difficult to use.
+I think our goal with the design of iPod was to design something that was small, but it was also really easy to use.
+Awesome!
+Somebody won't told me the world is going to roll me.
+I ate the shop is too lame.
+I shed my anger.
+It doesn't take a rocket scientist bigger this thing out.
+And I am a rocket scientist trying to do it.
+It seems incredible.
+And the nice thing is it's super simple.
+It's got five buttons in a scroll pad.
+smooth, it's flawless, you know, you're not going to skip over something that you're looking for.
+You've got your own record store on this DM thing.
+This kicks every other product's ass right here.
+Do you remember what it was like when you got your first welcoming?
+You remember that feeling when you first walked me in your hand it was like wow well I haven't picked up any MP3 play that has made me go wow okay I want to carry this wherever I go.
+This is the first thing that makes me feel wow okay it's hard to say what the coolest aspects of it are they're all cool obviously the look of it you know I'm going to want to have one of these.
+Our goal was to design that the very very best MPP player we could to design something that could become an icon and you know we'll see whether that's a case or not but certainly as a design team I can't remember the last time where we were collectively lasting after a product as bad as we are out there after an iPod.
+I might have to steal your product out.
+I'll take two of them one for my girlfriend and one for me because I don't have share in us with nobody.
+You can see the thought and the time and the love that's gone into it it's just wonderful everybody now.
+I just love to take a moment to give a round of applause to Ruby and Sina and their teams in particular Tony and Jeff, Johnny and his team who's made this product possible they've been really working hard.
+You started this program at the beginning of this year and it's been a very fast track program so thank you guys for working so hard.
+Now we're going to be doing some marketing around this product.
+We've got a magazine insert which is going to be running.
+This is one of the spreads from it.
+Thousand songs in your Mac, thousand songs in your pocket.
+Talks about iTunes, talks about auto sync, talks about obviously iPod and this insert is going to hit in November.
+We're going to be dropping 22 million copies in all the popular magazines and we think this is going to be pretty cool.
+Also this is a whole new category of course and no one's really educated the customers about this category.
+Nobody's made that investment.
+We're going to begin to make that investment with our inserts and we also have a television ad that I'd love to run right now for you.
+So can we run that?
+I pod thousand songs in your pocket.
+The goal of that ad is obviously to tell the world that there's something new about digital music from Apple.
