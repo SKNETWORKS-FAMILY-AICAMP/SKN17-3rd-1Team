@@ -96,7 +96,7 @@
 | 카테고리 | 기술 스택 |
 |----------|-------------------------------------------|
 | **사용 언어** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) |
-| **LLM** | ![OpenChat](https://img.shields.io/badge/OpenChat-FFB000?style=for-the-badge&logo=OpenAI&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-005F73?style=for-the-badge&logo=Chainlink&logoColor=white) |
+| **LLM** | [LLM 모델 링크](https://huggingface.co/K-intelligence/Midm-2.0-Mini-Instruct) ![LangChain](https://img.shields.io/badge/LangChain-005F73?style=for-the-badge&logo=Chainlink&logoColor=white) |
 | **벡터 데이터베이스** | ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=Apache&logoColor=white) |
 | **임베딩 모델** | ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-8C9E90?style=for-the-badge&logo=OpenAI&logoColor=white) |
 | **실행 환경** | ![RunPod](https://img.shields.io/badge/RunPod-FF4500?style=for-the-badge&logo=Render&logoColor=white) |
@@ -210,9 +210,6 @@ Chative Jobs는 **RAG**와 **파인튜닝**이 결합된 하이브리드 아키�
 
 
 # 7️⃣ 데이터 및 전처리
-
-- 논문 데이터를 보여줘야 함
-- 최종적으로 어떤 형식으로 변환했는지
 
 ## ✅ RAG용 문서 데이터 (마케팅 논문 데이터)
 - **목적**: 학술적 근거를 기반으로 신뢰성 높은 마케팅 전략을 제공하기 위한 지식 기반 구축
