@@ -274,6 +274,8 @@ Chative Jobs는 **RAG**와 **파인튜닝**이 결합된 하이브리드 아키�
 
 * `FAISS` 기반 Vector DB로 저장하여 RAG 검색 시스템에 최종 연동
 * `Chroma`에 비해 속도가 빠름
+  
+> Chroma db와 FAISS DB 두 개 다 사용해봤을 때, 속도 차이가 컸음
 
 <br>
 <br>
